@@ -8,8 +8,10 @@ DataAnalysis.py
 
 output\Analysis_output.xlsx
 - Contains exported and transformed data from Python (DataAnalysis.py)
-- Formats visualizations (tables & figures)
 
 Synthetic Data Analysis.docx
 - Glossary of formatted visualizations by topic
 - Summary and short analysis for each illustration and topic
+
+Figures_Tables.xlsx
+- Formatted figurs and tables based on data from Analysis_output.xlsx
