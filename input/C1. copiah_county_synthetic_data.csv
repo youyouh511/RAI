@@ -1,0 +1,1001 @@
+County,Race,Age,Gender,Education Level,Employment Status,Income Level,Prior Convictions,Risk Score,Judge Decision,Re-offense
+Copiah County,White,48,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",1,9,Denied,Yes
+Copiah County,Black,70,Male,High School,Unemployed,"$20,000 - $50,000",1,8,Denied,Yes
+Copiah County,White,73,Male,High School,Employed,"< $20,000",1,7,Denied,No
+Copiah County,White,26,Male,Some College,Unemployed,"$20,000 - $50,000",0,6,Granted,No
+Copiah County,White,38,Female,Master's Degree,Employed,"$50,000 - $100,000",0,3,Granted,No
+Copiah County,White,42,Male,Less than High School,Employed,"$50,000 - $100,000",4,6,Granted,No
+Copiah County,White,57,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",1,5,Granted,No
+Copiah County,Black,37,Female,Less than High School,Unemployed,"< $20,000",1,1,Granted,Yes
+Copiah County,Black,33,Male,Some College,Unemployed,"< $20,000",4,5,Denied,No
+Copiah County,White,33,Male,Less than High School,Unemployed,"< $20,000",1,10,Denied,No
+Copiah County,White,70,Male,Master's Degree,Employed,"$50,000 - $100,000",3,5,Granted,No
+Copiah County,White,51,Female,Some College,Unemployed,"$20,000 - $50,000",2,5,Granted,No
+Copiah County,White,52,Male,High School,Employed,"$20,000 - $50,000",3,7,Denied,No
+Copiah County,Black,41,Female,Less than High School,Employed,"$20,000 - $50,000",1,8,Denied,Yes
+Copiah County,White,33,Female,Master's Degree,Employed,"$50,000 - $100,000",1,8,Denied,Yes
+Copiah County,Black,26,Female,Less than High School,Unemployed,"< $20,000",1,6,Denied,Yes
+Copiah County,White,24,Female,High School,Employed,"$20,000 - $50,000",1,7,Denied,No
+Copiah County,Black,47,Male,Some College,Employed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,White,49,Female,Less than High School,Unemployed,"$20,000 - $50,000",3,7,Denied,No
+Copiah County,White,38,Female,Some College,Employed,"$50,000 - $100,000",4,4,Granted,No
+Copiah County,White,75,Female,Some College,Employed,"< $20,000",3,3,Granted,No
+Copiah County,Black,23,Male,Less than High School,Employed,"< $20,000",2,6,Denied,Yes
+Copiah County,White,48,Female,High School,Employed,"< $20,000",1,5,Granted,Yes
+Copiah County,Black,35,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",1,7,Denied,No
+Copiah County,Black,60,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",2,3,Granted,No
+Copiah County,White,68,Male,High School,Employed,"$50,000 - $100,000",4,6,Granted,Yes
+Copiah County,White,19,Female,Less than High School,Employed,"$20,000 - $50,000",0,5,Granted,No
+Copiah County,Black,45,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",1,3,Granted,No
+Copiah County,White,53,Male,High School,Employed,"< $20,000",1,4,Granted,Yes
+Copiah County,White,55,Female,Bachelor's Degree,Employed,"> $100,000",1,2,Granted,No
+Copiah County,White,51,Female,Less than High School,Unemployed,"< $20,000",1,1,Granted,Yes
+Copiah County,White,50,Male,Some College,Employed,"$50,000 - $100,000",2,4,Granted,No
+Copiah County,White,42,Male,Less than High School,Unemployed,"< $20,000",5,7,Denied,Yes
+Copiah County,Black,24,Female,Some College,Unemployed,"< $20,000",0,6,Denied,Yes
+Copiah County,White,23,Male,Less than High School,Employed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,Black,30,Male,High School,Unemployed,"< $20,000",0,8,Denied,Yes
+Copiah County,White,57,Male,Less than High School,Unemployed,"< $20,000",1,1,Granted,No
+Copiah County,White,38,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",2,7,Denied,No
+Copiah County,White,50,Male,Master's Degree,Employed,"$50,000 - $100,000",2,6,Granted,No
+Copiah County,White,27,Male,High School,Employed,"> $100,000",1,3,Granted,No
+Copiah County,Black,46,Male,Bachelor's Degree,Employed,"> $100,000",1,3,Granted,No
+Copiah County,White,63,Male,High School,Unemployed,"< $20,000",0,5,Granted,No
+Copiah County,White,22,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",2,5,Granted,No
+Copiah County,Black,24,Male,Less than High School,Unemployed,"< $20,000",0,10,Denied,Yes
+Copiah County,White,59,Female,Master's Degree,Employed,"$20,000 - $50,000",1,8,Denied,No
+Copiah County,White,46,Female,Some College,Employed,"$50,000 - $100,000",2,2,Granted,No
+Copiah County,White,34,Female,High School,Employed,"< $20,000",0,4,Granted,Yes
+Copiah County,White,54,Female,High School,Employed,"< $20,000",3,6,Granted,No
+Copiah County,Other,68,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",0,3,Granted,No
+Copiah County,White,41,Female,Less than High School,Employed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,White,47,Male,High School,Unemployed,"$20,000 - $50,000",3,8,Denied,Yes
+Copiah County,Black,28,Male,Less than High School,Employed,"< $20,000",0,3,Granted,Yes
+Copiah County,White,73,Male,High School,Unemployed,"$50,000 - $100,000",1,5,Granted,No
+Copiah County,White,58,Male,High School,Unemployed,"$50,000 - $100,000",0,4,Granted,No
+Copiah County,White,31,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",1,4,Granted,No
+Copiah County,White,27,Male,High School,Unemployed,"$20,000 - $50,000",2,8,Denied,No
+Copiah County,Black,32,Female,Bachelor's Degree,Employed,"> $100,000",1,6,Denied,No
+Copiah County,Black,71,Male,High School,Employed,"< $20,000",0,4,Granted,Yes
+Copiah County,White,52,Female,High School,Employed,"$20,000 - $50,000",4,2,Granted,Yes
+Copiah County,Black,33,Female,High School,Unemployed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,Other,73,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",0,4,Granted,No
+Copiah County,White,53,Male,High School,Employed,"< $20,000",2,8,Denied,No
+Copiah County,Black,33,Male,High School,Unemployed,"< $20,000",0,8,Denied,Yes
+Copiah County,White,25,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",0,3,Granted,No
+Copiah County,White,32,Female,High School,Unemployed,"$20,000 - $50,000",2,5,Granted,No
+Copiah County,White,57,Female,High School,Employed,"< $20,000",1,1,Granted,No
+Copiah County,White,48,Male,Less than High School,Employed,"< $20,000",1,5,Granted,Yes
+Copiah County,Black,69,Female,Some College,Unemployed,"$20,000 - $50,000",3,2,Granted,No
+Copiah County,White,45,Female,Some College,Employed,"< $20,000",2,9,Denied,No
+Copiah County,White,34,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",3,3,Granted,No
+Copiah County,Black,55,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,White,60,Female,Less than High School,Unemployed,"$20,000 - $50,000",1,2,Granted,No
+Copiah County,Black,39,Female,Some College,Employed,"$20,000 - $50,000",5,5,Denied,No
+Copiah County,White,38,Female,Less than High School,Employed,"< $20,000",1,6,Granted,Yes
+Copiah County,Black,70,Male,Some College,Unemployed,"< $20,000",2,9,Denied,No
+Copiah County,White,43,Female,Some College,Employed,"$20,000 - $50,000",2,3,Granted,No
+Copiah County,White,44,Female,Less than High School,Unemployed,"< $20,000",1,4,Granted,Yes
+Copiah County,Black,30,Male,High School,Unemployed,"< $20,000",0,4,Granted,Yes
+Copiah County,White,55,Male,Less than High School,Employed,"$20,000 - $50,000",2,7,Denied,No
+Copiah County,Black,32,Male,Some College,Employed,"$20,000 - $50,000",3,3,Granted,No
+Copiah County,Black,62,Male,High School,Unemployed,"< $20,000",1,5,Denied,No
+Copiah County,White,68,Male,High School,Employed,"< $20,000",3,9,Denied,Yes
+Copiah County,Black,57,Male,Less than High School,Employed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,Black,21,Female,High School,Unemployed,"$20,000 - $50,000",0,5,Denied,No
+Copiah County,White,49,Male,Bachelor's Degree,Employed,"> $100,000",1,2,Granted,No
+Copiah County,Black,27,Female,High School,Employed,"$20,000 - $50,000",0,10,Denied,No
+Copiah County,White,55,Male,High School,Employed,"$20,000 - $50,000",1,3,Granted,No
+Copiah County,Black,70,Female,High School,Employed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,Black,34,Female,Some College,Employed,"< $20,000",3,4,Granted,Yes
+Copiah County,White,47,Male,Some College,Unemployed,"$20,000 - $50,000",2,6,Granted,No
+Copiah County,White,63,Male,High School,Employed,"< $20,000",3,3,Granted,Yes
+Copiah County,Black,62,Female,Some College,Employed,"< $20,000",1,9,Denied,Yes
+Copiah County,White,47,Male,High School,Employed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,White,70,Female,Some College,Unemployed,"$50,000 - $100,000",1,7,Denied,No
+Copiah County,Black,31,Female,Some College,Unemployed,"$20,000 - $50,000",2,7,Denied,No
+Copiah County,White,63,Female,Some College,Employed,"$20,000 - $50,000",2,5,Granted,No
+Copiah County,Black,59,Male,High School,Employed,"$20,000 - $50,000",5,7,Denied,No
+Copiah County,Black,50,Female,High School,Employed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,White,55,Male,Some College,Employed,"$20,000 - $50,000",2,5,Granted,No
+Copiah County,Black,33,Male,High School,Employed,"< $20,000",0,5,Denied,Yes
+Copiah County,White,45,Male,Some College,Employed,"$20,000 - $50,000",0,4,Granted,No
+Copiah County,Black,37,Female,Some College,Employed,"$20,000 - $50,000",1,7,Denied,No
+Copiah County,White,67,Female,Some College,Unemployed,"$50,000 - $100,000",1,3,Granted,No
+Copiah County,White,52,Male,High School,Employed,"$20,000 - $50,000",4,4,Granted,Yes
+Copiah County,White,45,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,White,72,Male,Some College,Employed,"> $100,000",0,4,Granted,No
+Copiah County,Black,34,Female,Master's Degree,Employed,"$50,000 - $100,000",4,8,Denied,Yes
+Copiah County,Black,26,Male,High School,Unemployed,"> $100,000",1,4,Granted,No
+Copiah County,White,43,Male,Some College,Employed,"< $20,000",4,4,Granted,No
+Copiah County,White,36,Male,Some College,Unemployed,"$20,000 - $50,000",1,3,Granted,No
+Copiah County,Black,37,Female,Bachelor's Degree,Employed,"< $20,000",4,8,Denied,Yes
+Copiah County,Black,51,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",3,4,Granted,No
+Copiah County,White,50,Female,Bachelor's Degree,Employed,"> $100,000",1,1,Granted,No
+Copiah County,White,35,Female,Some College,Employed,"$20,000 - $50,000",1,4,Granted,No
+Copiah County,White,70,Female,High School,Unemployed,"$20,000 - $50,000",2,5,Granted,No
+Copiah County,White,40,Male,Less than High School,Unemployed,"$20,000 - $50,000",2,7,Denied,No
+Copiah County,Other,24,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",1,7,Denied,No
+Copiah County,Black,18,Female,Less than High School,Unemployed,"$20,000 - $50,000",2,8,Denied,No
+Copiah County,White,67,Male,Some College,Employed,"$20,000 - $50,000",2,5,Granted,No
+Copiah County,Black,53,Female,High School,Unemployed,"< $20,000",0,7,Denied,No
+Copiah County,Black,68,Male,Some College,Employed,"$50,000 - $100,000",1,7,Denied,No
+Copiah County,White,44,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,Black,60,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",0,4,Granted,No
+Copiah County,Black,69,Male,High School,Employed,"$20,000 - $50,000",3,6,Denied,No
+Copiah County,White,64,Female,High School,Employed,"$20,000 - $50,000",3,1,Granted,No
+Copiah County,Black,29,Male,Less than High School,Unemployed,"$20,000 - $50,000",0,5,Denied,No
+Copiah County,White,46,Male,Some College,Unemployed,"$20,000 - $50,000",0,4,Granted,No
+Copiah County,White,41,Female,PhD,Employed,"< $20,000",3,10,Denied,No
+Copiah County,White,33,Female,Some College,Employed,"$20,000 - $50,000",2,5,Granted,No
+Copiah County,White,49,Male,Bachelor's Degree,Employed,"< $20,000",1,6,Granted,Yes
+Copiah County,Black,73,Female,High School,Employed,"$50,000 - $100,000",3,6,Denied,No
+Copiah County,Black,20,Male,High School,Unemployed,"< $20,000",2,5,Denied,Yes
+Copiah County,Black,65,Male,Some College,Employed,"< $20,000",1,6,Denied,Yes
+Copiah County,White,21,Male,Less than High School,Unemployed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,White,54,Female,Master's Degree,Employed,"$50,000 - $100,000",2,3,Granted,No
+Copiah County,Black,40,Female,Less than High School,Unemployed,"< $20,000",3,4,Granted,Yes
+Copiah County,White,32,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,White,37,Female,Less than High School,Unemployed,"< $20,000",4,4,Granted,No
+Copiah County,White,52,Female,Less than High School,Unemployed,"$20,000 - $50,000",3,5,Granted,No
+Copiah County,White,64,Female,Less than High School,Unemployed,"$20,000 - $50,000",1,10,Denied,No
+Copiah County,White,65,Male,Less than High School,Employed,"$50,000 - $100,000",3,4,Granted,No
+Copiah County,White,54,Male,Some College,Employed,"< $20,000",0,7,Denied,Yes
+Copiah County,White,26,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",0,3,Granted,No
+Copiah County,Black,19,Male,Master's Degree,Employed,"> $100,000",0,4,Granted,No
+Copiah County,White,22,Female,Master's Degree,Employed,"$50,000 - $100,000",3,5,Granted,No
+Copiah County,White,50,Female,High School,Unemployed,"< $20,000",2,5,Granted,No
+Copiah County,White,26,Male,High School,Employed,"$20,000 - $50,000",0,5,Granted,No
+Copiah County,Black,54,Male,Less than High School,Unemployed,"< $20,000",1,7,Denied,Yes
+Copiah County,White,29,Male,Less than High School,Unemployed,"$20,000 - $50,000",1,4,Granted,No
+Copiah County,White,71,Male,Some College,Employed,"$20,000 - $50,000",1,4,Granted,No
+Copiah County,White,24,Male,Some College,Employed,"$20,000 - $50,000",1,1,Granted,No
+Copiah County,Black,75,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",1,6,Denied,No
+Copiah County,White,21,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",1,3,Granted,No
+Copiah County,White,36,Male,High School,Employed,"< $20,000",1,1,Granted,Yes
+Copiah County,White,57,Male,High School,Unemployed,"> $100,000",0,4,Granted,No
+Copiah County,White,54,Female,Some College,Employed,"< $20,000",4,6,Granted,No
+Copiah County,Black,69,Female,Less than High School,Unemployed,"< $20,000",3,2,Granted,No
+Copiah County,White,56,Male,Some College,Unemployed,"$20,000 - $50,000",4,10,Denied,Yes
+Copiah County,White,52,Male,Bachelor's Degree,Employed,"> $100,000",3,8,Denied,Yes
+Copiah County,Black,20,Male,High School,Employed,"< $20,000",0,2,Granted,No
+Copiah County,White,26,Male,PhD,Employed,"$50,000 - $100,000",2,2,Granted,No
+Copiah County,Black,30,Female,High School,Unemployed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,Black,52,Male,Some College,Employed,"$50,000 - $100,000",2,9,Denied,Yes
+Copiah County,Black,72,Female,High School,Unemployed,"$20,000 - $50,000",1,7,Denied,No
+Copiah County,Black,75,Male,High School,Employed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,White,25,Male,High School,Employed,"$50,000 - $100,000",3,6,Granted,No
+Copiah County,White,60,Male,Some College,Unemployed,"< $20,000",0,5,Granted,Yes
+Copiah County,Black,20,Male,Some College,Unemployed,"$20,000 - $50,000",2,5,Denied,No
+Copiah County,Black,39,Female,High School,Employed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,White,44,Male,Master's Degree,Employed,"> $100,000",1,3,Granted,No
+Copiah County,White,36,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",1,4,Granted,No
+Copiah County,Black,54,Male,High School,Employed,"$20,000 - $50,000",3,10,Denied,Yes
+Copiah County,White,66,Female,Bachelor's Degree,Employed,"> $100,000",0,4,Granted,No
+Copiah County,White,59,Female,Less than High School,Employed,"< $20,000",1,5,Granted,Yes
+Copiah County,White,18,Male,High School,Employed,"< $20,000",1,4,Granted,No
+Copiah County,Black,34,Male,High School,Unemployed,"< $20,000",2,5,Denied,Yes
+Copiah County,White,27,Female,Some College,Employed,"$20,000 - $50,000",0,4,Granted,No
+Copiah County,Black,60,Female,High School,Employed,"< $20,000",3,8,Denied,No
+Copiah County,White,72,Female,High School,Employed,"$50,000 - $100,000",3,1,Granted,No
+Copiah County,White,46,Male,Less than High School,Employed,"< $20,000",4,3,Granted,Yes
+Copiah County,White,48,Male,Some College,Unemployed,"$20,000 - $50,000",1,6,Granted,No
+Copiah County,Black,60,Male,Some College,Employed,"$20,000 - $50,000",0,6,Denied,No
+Copiah County,White,67,Female,Some College,Employed,"$50,000 - $100,000",1,4,Granted,No
+Copiah County,White,53,Female,PhD,Employed,"$20,000 - $50,000",2,6,Granted,No
+Copiah County,Black,62,Male,High School,Unemployed,"$20,000 - $50,000",2,7,Denied,No
+Copiah County,White,66,Female,Some College,Employed,"> $100,000",3,6,Granted,No
+Copiah County,Black,75,Male,High School,Employed,"$50,000 - $100,000",2,4,Granted,No
+Copiah County,Black,30,Male,Less than High School,Employed,"$20,000 - $50,000",2,5,Denied,No
+Copiah County,White,69,Male,High School,Unemployed,"$20,000 - $50,000",1,6,Granted,No
+Copiah County,Black,44,Male,High School,Unemployed,"$50,000 - $100,000",2,4,Granted,No
+Copiah County,Black,29,Female,PhD,Employed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,White,42,Female,High School,Unemployed,"$20,000 - $50,000",0,3,Granted,No
+Copiah County,White,74,Male,Less than High School,Employed,"$20,000 - $50,000",3,4,Granted,No
+Copiah County,White,55,Male,Some College,Employed,"$20,000 - $50,000",1,3,Granted,No
+Copiah County,White,60,Male,High School,Unemployed,"$20,000 - $50,000",2,5,Granted,No
+Copiah County,White,47,Male,High School,Unemployed,"< $20,000",3,4,Granted,Yes
+Copiah County,White,25,Female,Master's Degree,Employed,"$50,000 - $100,000",1,4,Granted,No
+Copiah County,White,26,Male,Less than High School,Employed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,White,19,Female,Less than High School,Employed,"$20,000 - $50,000",2,5,Granted,No
+Copiah County,Black,70,Male,Less than High School,Unemployed,"< $20,000",2,8,Denied,Yes
+Copiah County,White,62,Female,Some College,Employed,"> $100,000",0,3,Granted,No
+Copiah County,Black,64,Female,Some College,Employed,"$20,000 - $50,000",2,3,Granted,No
+Copiah County,Black,73,Male,High School,Unemployed,"$50,000 - $100,000",2,8,Denied,No
+Copiah County,White,50,Female,Less than High School,Unemployed,"< $20,000",2,6,Granted,Yes
+Copiah County,White,73,Female,Less than High School,Unemployed,"< $20,000",3,6,Granted,No
+Copiah County,Black,57,Male,Master's Degree,Employed,"$20,000 - $50,000",1,1,Granted,No
+Copiah County,White,66,Male,Some College,Employed,"< $20,000",1,6,Granted,No
+Copiah County,Black,74,Female,Some College,Unemployed,"$50,000 - $100,000",4,4,Granted,Yes
+Copiah County,White,63,Female,High School,Employed,"< $20,000",3,5,Granted,Yes
+Copiah County,Black,73,Female,Bachelor's Degree,Employed,"> $100,000",0,5,Denied,No
+Copiah County,White,65,Male,High School,Employed,"$50,000 - $100,000",5,5,Granted,No
+Copiah County,Black,68,Female,Some College,Unemployed,"$20,000 - $50,000",6,6,Denied,No
+Copiah County,Black,43,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",3,6,Denied,No
+Copiah County,Black,50,Male,Some College,Employed,"$20,000 - $50,000",2,7,Denied,No
+Copiah County,White,25,Male,Master's Degree,Employed,"$50,000 - $100,000",1,9,Denied,Yes
+Copiah County,Black,56,Male,High School,Unemployed,"$50,000 - $100,000",2,8,Denied,Yes
+Copiah County,White,32,Male,Some College,Unemployed,"$50,000 - $100,000",1,4,Granted,No
+Copiah County,Black,39,Female,High School,Unemployed,"$20,000 - $50,000",1,2,Granted,No
+Copiah County,White,23,Male,High School,Unemployed,"< $20,000",2,1,Granted,No
+Copiah County,White,33,Male,Some College,Employed,"< $20,000",2,8,Denied,No
+Copiah County,Black,49,Male,Less than High School,Employed,"$20,000 - $50,000",1,5,Denied,No
+Copiah County,White,71,Female,Some College,Employed,"< $20,000",2,6,Granted,No
+Copiah County,Black,56,Female,Master's Degree,Employed,"$50,000 - $100,000",2,4,Granted,No
+Copiah County,Black,54,Female,High School,Unemployed,"< $20,000",2,3,Granted,No
+Copiah County,Black,42,Female,Less than High School,Unemployed,"> $100,000",2,10,Denied,No
+Copiah County,White,73,Female,Master's Degree,Employed,"$20,000 - $50,000",0,8,Denied,Yes
+Copiah County,White,66,Female,Some College,Unemployed,"< $20,000",0,4,Granted,Yes
+Copiah County,White,21,Female,Master's Degree,Employed,"$50,000 - $100,000",3,6,Granted,No
+Copiah County,White,32,Male,Less than High School,Employed,"$20,000 - $50,000",3,5,Granted,No
+Copiah County,White,70,Female,Some College,Unemployed,"> $100,000",3,6,Granted,No
+Copiah County,White,60,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",3,4,Granted,No
+Copiah County,Black,27,Male,Some College,Employed,"< $20,000",1,3,Granted,Yes
+Copiah County,Black,71,Male,Less than High School,Employed,"< $20,000",1,6,Denied,Yes
+Copiah County,White,21,Male,Some College,Employed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,White,19,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",0,2,Granted,No
+Copiah County,Black,45,Male,Some College,Employed,"$20,000 - $50,000",2,3,Granted,No
+Copiah County,White,48,Female,Less than High School,Employed,"> $100,000",1,4,Granted,No
+Copiah County,White,64,Male,High School,Employed,"$50,000 - $100,000",0,4,Granted,No
+Copiah County,White,50,Male,Bachelor's Degree,Employed,"> $100,000",1,3,Granted,No
+Copiah County,White,50,Female,High School,Employed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,White,48,Male,High School,Employed,"$20,000 - $50,000",0,3,Granted,No
+Copiah County,White,57,Male,Some College,Unemployed,"$50,000 - $100,000",1,5,Granted,No
+Copiah County,White,44,Male,High School,Employed,"< $20,000",2,2,Granted,Yes
+Copiah County,Other,52,Female,Less than High School,Employed,"$20,000 - $50,000",1,3,Granted,No
+Copiah County,White,62,Male,High School,Employed,"< $20,000",0,7,Denied,Yes
+Copiah County,Black,47,Male,Less than High School,Unemployed,"$20,000 - $50,000",6,6,Denied,No
+Copiah County,Black,58,Female,High School,Unemployed,"< $20,000",0,7,Denied,Yes
+Copiah County,Black,22,Female,Some College,Unemployed,"$20,000 - $50,000",0,4,Granted,No
+Copiah County,Black,72,Female,High School,Employed,"$20,000 - $50,000",2,7,Denied,No
+Copiah County,White,34,Female,High School,Unemployed,"$20,000 - $50,000",4,4,Granted,No
+Copiah County,White,28,Male,Master's Degree,Employed,"$20,000 - $50,000",1,8,Denied,No
+Copiah County,White,67,Male,Some College,Employed,"$50,000 - $100,000",2,2,Granted,No
+Copiah County,Black,25,Male,Less than High School,Employed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,White,53,Female,High School,Employed,"$50,000 - $100,000",4,1,Granted,No
+Copiah County,White,74,Male,High School,Unemployed,"< $20,000",2,1,Granted,Yes
+Copiah County,White,40,Male,High School,Employed,"< $20,000",2,1,Granted,Yes
+Copiah County,White,71,Male,Some College,Employed,"> $100,000",1,7,Denied,No
+Copiah County,White,38,Female,Some College,Employed,"< $20,000",1,6,Granted,No
+Copiah County,Black,67,Female,High School,Unemployed,"$50,000 - $100,000",1,3,Granted,No
+Copiah County,White,59,Female,High School,Employed,"< $20,000",3,7,Denied,Yes
+Copiah County,White,69,Male,High School,Employed,"> $100,000",2,4,Granted,No
+Copiah County,White,35,Male,High School,Employed,"$20,000 - $50,000",0,3,Granted,No
+Copiah County,White,39,Female,Less than High School,Employed,"< $20,000",1,5,Granted,No
+Copiah County,Black,18,Female,Less than High School,Employed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,Black,67,Male,Some College,Employed,"< $20,000",2,3,Granted,No
+Copiah County,White,18,Female,High School,Employed,"$20,000 - $50,000",1,6,Granted,No
+Copiah County,White,29,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",1,6,Granted,No
+Copiah County,White,21,Male,Some College,Employed,"$50,000 - $100,000",0,3,Granted,No
+Copiah County,Black,32,Female,Less than High School,Unemployed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,White,67,Male,Some College,Unemployed,"> $100,000",2,5,Granted,No
+Copiah County,White,66,Male,High School,Employed,"< $20,000",2,6,Granted,No
+Copiah County,White,34,Female,Some College,Unemployed,"$20,000 - $50,000",1,6,Granted,No
+Copiah County,White,49,Female,High School,Employed,"< $20,000",1,4,Granted,No
+Copiah County,White,42,Female,Master's Degree,Employed,"$50,000 - $100,000",0,1,Granted,No
+Copiah County,White,62,Female,High School,Employed,"> $100,000",0,4,Granted,No
+Copiah County,White,43,Female,Master's Degree,Employed,"$50,000 - $100,000",1,4,Granted,No
+Copiah County,White,20,Female,High School,Unemployed,"< $20,000",0,7,Denied,Yes
+Copiah County,Black,48,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",1,6,Denied,No
+Copiah County,White,52,Male,Some College,Unemployed,"> $100,000",2,4,Granted,No
+Copiah County,Black,33,Male,Some College,Employed,"$50,000 - $100,000",2,8,Denied,Yes
+Copiah County,White,36,Female,Bachelor's Degree,Employed,"> $100,000",2,3,Granted,No
+Copiah County,Black,28,Female,Some College,Employed,"< $20,000",2,3,Granted,Yes
+Copiah County,White,45,Male,Less than High School,Employed,"$20,000 - $50,000",2,6,Granted,No
+Copiah County,Black,21,Male,Master's Degree,Employed,"$50,000 - $100,000",1,4,Granted,No
+Copiah County,Black,67,Female,Some College,Employed,"$20,000 - $50,000",0,6,Denied,No
+Copiah County,White,75,Female,Less than High School,Employed,"< $20,000",3,6,Granted,No
+Copiah County,White,52,Female,Some College,Employed,"$50,000 - $100,000",2,6,Granted,No
+Copiah County,White,19,Male,Some College,Employed,"$20,000 - $50,000",1,6,Granted,No
+Copiah County,Black,58,Female,High School,Unemployed,"$20,000 - $50,000",3,8,Denied,Yes
+Copiah County,White,58,Female,High School,Employed,"< $20,000",1,10,Denied,No
+Copiah County,Black,37,Male,High School,Employed,"$20,000 - $50,000",3,5,Denied,No
+Copiah County,White,37,Female,Less than High School,Employed,"$50,000 - $100,000",2,2,Granted,No
+Copiah County,White,50,Female,High School,Employed,"< $20,000",2,8,Denied,Yes
+Copiah County,White,62,Male,High School,Unemployed,"< $20,000",1,5,Granted,No
+Copiah County,White,42,Male,Less than High School,Unemployed,"$20,000 - $50,000",3,1,Granted,No
+Copiah County,White,42,Female,High School,Employed,"$20,000 - $50,000",0,4,Granted,No
+Copiah County,Black,72,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",0,2,Granted,No
+Copiah County,White,54,Female,Some College,Unemployed,"> $100,000",4,5,Granted,No
+Copiah County,White,58,Male,Some College,Unemployed,"< $20,000",2,3,Granted,Yes
+Copiah County,Black,43,Female,Some College,Unemployed,"$20,000 - $50,000",4,6,Denied,Yes
+Copiah County,White,61,Male,PhD,Employed,"$20,000 - $50,000",3,4,Granted,No
+Copiah County,White,42,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",1,3,Granted,No
+Copiah County,Black,24,Male,Less than High School,Unemployed,"$50,000 - $100,000",2,2,Granted,No
+Copiah County,Black,40,Male,High School,Unemployed,"> $100,000",5,6,Denied,No
+Copiah County,Black,57,Male,Bachelor's Degree,Employed,"< $20,000",2,10,Denied,Yes
+Copiah County,Other,74,Female,Some College,Unemployed,"$20,000 - $50,000",3,7,Denied,No
+Copiah County,White,27,Male,Some College,Unemployed,"$20,000 - $50,000",2,6,Granted,No
+Copiah County,White,29,Male,Less than High School,Unemployed,"$20,000 - $50,000",0,4,Granted,No
+Copiah County,Black,75,Female,High School,Unemployed,"$50,000 - $100,000",1,2,Granted,No
+Copiah County,Black,45,Female,Less than High School,Employed,"$20,000 - $50,000",0,7,Denied,No
+Copiah County,Black,50,Male,High School,Employed,"< $20,000",1,9,Denied,Yes
+Copiah County,Black,46,Female,Less than High School,Employed,"< $20,000",2,5,Denied,No
+Copiah County,White,44,Male,Master's Degree,Employed,"$50,000 - $100,000",0,8,Denied,No
+Copiah County,White,61,Female,Some College,Unemployed,"$20,000 - $50,000",1,3,Granted,No
+Copiah County,White,74,Female,High School,Unemployed,"< $20,000",2,8,Denied,No
+Copiah County,Black,51,Male,Some College,Employed,"$50,000 - $100,000",4,8,Denied,No
+Copiah County,Black,28,Male,Less than High School,Employed,"$20,000 - $50,000",3,6,Denied,No
+Copiah County,White,51,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",2,10,Denied,Yes
+Copiah County,White,75,Female,Some College,Unemployed,"$20,000 - $50,000",2,8,Denied,Yes
+Copiah County,White,65,Male,Less than High School,Employed,"< $20,000",4,5,Granted,Yes
+Copiah County,Black,59,Male,High School,Unemployed,"< $20,000",5,8,Denied,Yes
+Copiah County,White,55,Female,PhD,Employed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,White,27,Male,Less than High School,Unemployed,"$20,000 - $50,000",1,4,Granted,No
+Copiah County,Black,55,Female,Some College,Unemployed,"< $20,000",1,9,Denied,No
+Copiah County,White,33,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",0,5,Granted,No
+Copiah County,White,46,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",2,1,Granted,No
+Copiah County,White,25,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",0,4,Granted,No
+Copiah County,White,61,Male,PhD,Employed,"$20,000 - $50,000",1,8,Denied,No
+Copiah County,White,34,Male,Some College,Employed,"$20,000 - $50,000",1,3,Granted,No
+Copiah County,White,18,Female,Master's Degree,Employed,"$50,000 - $100,000",2,6,Granted,No
+Copiah County,White,26,Female,Less than High School,Employed,"$50,000 - $100,000",1,6,Granted,No
+Copiah County,White,67,Male,Master's Degree,Employed,"> $100,000",1,5,Granted,No
+Copiah County,Other,47,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",1,5,Granted,No
+Copiah County,White,32,Male,Less than High School,Unemployed,"$20,000 - $50,000",0,6,Granted,No
+Copiah County,Black,42,Female,Some College,Unemployed,"< $20,000",1,7,Denied,Yes
+Copiah County,White,66,Male,Less than High School,Employed,"< $20,000",2,5,Granted,No
+Copiah County,White,55,Female,Some College,Unemployed,"< $20,000",2,8,Denied,Yes
+Copiah County,Black,31,Female,Less than High School,Employed,"$20,000 - $50,000",3,6,Denied,No
+Copiah County,White,29,Female,High School,Unemployed,"$50,000 - $100,000",1,5,Granted,No
+Copiah County,White,69,Male,Less than High School,Employed,"< $20,000",1,5,Granted,No
+Copiah County,White,52,Female,High School,Employed,"> $100,000",0,5,Granted,No
+Copiah County,White,25,Male,Some College,Unemployed,"$20,000 - $50,000",1,1,Granted,No
+Copiah County,White,72,Female,Some College,Employed,"< $20,000",0,8,Denied,Yes
+Copiah County,White,45,Female,Bachelor's Degree,Employed,"< $20,000",3,8,Denied,Yes
+Copiah County,White,35,Male,Less than High School,Unemployed,"$50,000 - $100,000",4,3,Granted,No
+Copiah County,White,36,Male,High School,Unemployed,"$20,000 - $50,000",0,5,Granted,No
+Copiah County,Black,71,Female,High School,Employed,"$50,000 - $100,000",4,5,Denied,Yes
+Copiah County,White,25,Male,Less than High School,Employed,"< $20,000",0,5,Granted,Yes
+Copiah County,White,73,Female,Less than High School,Unemployed,"< $20,000",4,6,Granted,Yes
+Copiah County,White,51,Female,High School,Employed,"$50,000 - $100,000",3,4,Granted,No
+Copiah County,Black,31,Male,Less than High School,Unemployed,"< $20,000",2,10,Denied,No
+Copiah County,White,26,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",1,5,Granted,No
+Copiah County,Black,56,Female,High School,Employed,"$20,000 - $50,000",4,8,Denied,Yes
+Copiah County,White,46,Male,High School,Unemployed,"$20,000 - $50,000",2,5,Granted,No
+Copiah County,White,51,Female,High School,Employed,"$50,000 - $100,000",2,4,Granted,No
+Copiah County,White,44,Female,Some College,Unemployed,"$20,000 - $50,000",5,4,Granted,No
+Copiah County,White,66,Male,Some College,Employed,"< $20,000",5,5,Granted,No
+Copiah County,Other,49,Male,Bachelor's Degree,Employed,"< $20,000",0,5,Granted,Yes
+Copiah County,White,56,Male,Less than High School,Unemployed,"< $20,000",1,7,Denied,No
+Copiah County,Black,52,Male,High School,Unemployed,"$20,000 - $50,000",3,6,Denied,No
+Copiah County,White,30,Female,Some College,Employed,"< $20,000",2,5,Granted,No
+Copiah County,White,66,Male,Some College,Unemployed,"$20,000 - $50,000",3,2,Granted,No
+Copiah County,Black,26,Female,Less than High School,Employed,"$50,000 - $100,000",1,7,Denied,No
+Copiah County,White,75,Female,Less than High School,Employed,"$20,000 - $50,000",2,6,Granted,No
+Copiah County,White,29,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",3,5,Granted,No
+Copiah County,White,69,Female,Less than High School,Unemployed,"< $20,000",4,6,Granted,Yes
+Copiah County,White,18,Female,Less than High School,Unemployed,"< $20,000",0,2,Granted,No
+Copiah County,Black,32,Male,Some College,Unemployed,"> $100,000",0,9,Denied,No
+Copiah County,Black,37,Female,High School,Unemployed,"< $20,000",4,6,Denied,No
+Copiah County,Black,59,Male,Less than High School,Employed,"< $20,000",2,3,Granted,No
+Copiah County,Black,38,Male,High School,Unemployed,"< $20,000",2,4,Granted,Yes
+Copiah County,Black,22,Female,Less than High School,Employed,"< $20,000",1,7,Denied,Yes
+Copiah County,White,18,Female,Some College,Unemployed,"$20,000 - $50,000",0,2,Granted,No
+Copiah County,White,69,Male,Some College,Unemployed,"$20,000 - $50,000",4,8,Denied,No
+Copiah County,Black,27,Female,Bachelor's Degree,Employed,"> $100,000",1,5,Denied,No
+Copiah County,White,30,Male,High School,Employed,"< $20,000",1,5,Granted,No
+Copiah County,Black,31,Male,High School,Unemployed,"< $20,000",2,4,Granted,Yes
+Copiah County,White,44,Female,High School,Employed,"$20,000 - $50,000",3,8,Denied,Yes
+Copiah County,Black,48,Female,Bachelor's Degree,Employed,"> $100,000",1,6,Denied,No
+Copiah County,White,35,Male,Some College,Employed,"$20,000 - $50,000",2,6,Granted,No
+Copiah County,White,27,Female,Some College,Employed,"$20,000 - $50,000",1,3,Granted,No
+Copiah County,White,27,Male,Less than High School,Unemployed,"$20,000 - $50,000",4,2,Granted,Yes
+Copiah County,Black,69,Female,Some College,Employed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,White,58,Female,Master's Degree,Employed,"$50,000 - $100,000",3,7,Denied,No
+Copiah County,Black,56,Female,High School,Employed,"< $20,000",2,5,Denied,No
+Copiah County,Black,19,Male,Some College,Unemployed,"< $20,000",0,8,Denied,No
+Copiah County,White,25,Male,High School,Unemployed,"$20,000 - $50,000",0,3,Granted,No
+Copiah County,White,71,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",0,1,Granted,No
+Copiah County,White,27,Female,Less than High School,Unemployed,"< $20,000",1,4,Granted,No
+Copiah County,White,20,Female,Some College,Unemployed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,White,71,Female,Less than High School,Employed,"$50,000 - $100,000",2,4,Granted,No
+Copiah County,Black,19,Male,High School,Employed,"$20,000 - $50,000",3,3,Granted,No
+Copiah County,Black,41,Male,Less than High School,Unemployed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,Black,43,Female,Less than High School,Unemployed,"$20,000 - $50,000",3,6,Denied,No
+Copiah County,Black,28,Female,High School,Unemployed,"$20,000 - $50,000",2,3,Granted,No
+Copiah County,White,69,Male,Less than High School,Unemployed,"$20,000 - $50,000",0,2,Granted,No
+Copiah County,White,74,Female,Master's Degree,Employed,"$20,000 - $50,000",1,7,Denied,No
+Copiah County,White,55,Male,Less than High School,Unemployed,"$50,000 - $100,000",1,3,Granted,No
+Copiah County,White,60,Male,Some College,Employed,"$20,000 - $50,000",2,6,Granted,No
+Copiah County,White,58,Male,Less than High School,Employed,"< $20,000",1,6,Granted,Yes
+Copiah County,Black,56,Male,Some College,Unemployed,"< $20,000",3,8,Denied,Yes
+Copiah County,White,59,Female,Some College,Unemployed,"$20,000 - $50,000",1,6,Granted,No
+Copiah County,Black,65,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",3,8,Denied,Yes
+Copiah County,Black,60,Male,Some College,Employed,"$50,000 - $100,000",1,7,Denied,No
+Copiah County,White,34,Female,High School,Employed,"$20,000 - $50,000",3,1,Granted,No
+Copiah County,Other,45,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",2,7,Denied,No
+Copiah County,Black,70,Female,Master's Degree,Employed,"> $100,000",1,9,Denied,No
+Copiah County,Black,33,Female,Master's Degree,Employed,"$50,000 - $100,000",0,8,Denied,Yes
+Copiah County,Black,50,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",1,7,Denied,No
+Copiah County,White,62,Female,Less than High School,Employed,"< $20,000",1,7,Denied,Yes
+Copiah County,White,60,Female,Some College,Employed,"$50,000 - $100,000",1,2,Granted,No
+Copiah County,White,31,Female,High School,Unemployed,"$20,000 - $50,000",3,6,Granted,No
+Copiah County,Black,73,Female,High School,Employed,"< $20,000",4,7,Denied,Yes
+Copiah County,White,36,Male,Some College,Unemployed,"$20,000 - $50,000",2,6,Granted,No
+Copiah County,White,20,Male,Some College,Employed,"$20,000 - $50,000",1,6,Granted,No
+Copiah County,White,34,Male,Master's Degree,Employed,"$50,000 - $100,000",1,6,Granted,No
+Copiah County,White,66,Male,High School,Unemployed,"< $20,000",2,6,Granted,Yes
+Copiah County,Black,27,Female,Some College,Employed,"$50,000 - $100,000",0,2,Granted,No
+Copiah County,White,23,Female,High School,Employed,"< $20,000",2,4,Granted,Yes
+Copiah County,Black,18,Female,Less than High School,Employed,"$20,000 - $50,000",1,5,Denied,No
+Copiah County,White,48,Male,Master's Degree,Employed,"$50,000 - $100,000",2,3,Granted,No
+Copiah County,White,46,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",1,6,Granted,No
+Copiah County,Black,53,Female,Master's Degree,Employed,"$50,000 - $100,000",0,4,Granted,No
+Copiah County,Black,50,Female,Less than High School,Unemployed,"< $20,000",1,5,Denied,No
+Copiah County,White,27,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",1,2,Granted,No
+Copiah County,White,73,Male,Less than High School,Unemployed,"> $100,000",1,3,Granted,No
+Copiah County,White,40,Male,Some College,Employed,"$50,000 - $100,000",1,5,Granted,No
+Copiah County,Black,55,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",2,7,Denied,No
+Copiah County,Black,54,Male,Some College,Unemployed,"$20,000 - $50,000",2,5,Denied,No
+Copiah County,White,32,Male,High School,Employed,"$20,000 - $50,000",3,2,Granted,No
+Copiah County,White,32,Male,PhD,Employed,"$50,000 - $100,000",4,3,Granted,No
+Copiah County,White,61,Female,High School,Unemployed,"$20,000 - $50,000",4,7,Denied,Yes
+Copiah County,Black,21,Male,High School,Employed,"$20,000 - $50,000",1,7,Denied,No
+Copiah County,White,64,Female,Less than High School,Unemployed,"< $20,000",0,8,Denied,No
+Copiah County,White,64,Male,Bachelor's Degree,Employed,"> $100,000",2,7,Denied,No
+Copiah County,White,19,Female,High School,Employed,"$50,000 - $100,000",1,5,Granted,No
+Copiah County,Black,70,Male,Some College,Unemployed,"< $20,000",5,6,Denied,Yes
+Copiah County,White,43,Female,Less than High School,Unemployed,"< $20,000",2,3,Granted,Yes
+Copiah County,White,61,Female,High School,Employed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,White,30,Male,High School,Employed,"$20,000 - $50,000",0,4,Granted,No
+Copiah County,White,33,Male,Bachelor's Degree,Employed,"> $100,000",1,6,Granted,No
+Copiah County,Black,74,Male,High School,Employed,"$20,000 - $50,000",0,7,Denied,No
+Copiah County,White,63,Female,High School,Employed,"$20,000 - $50,000",2,5,Granted,No
+Copiah County,White,70,Male,Some College,Unemployed,"> $100,000",2,5,Granted,No
+Copiah County,White,20,Female,Less than High School,Unemployed,"$50,000 - $100,000",1,4,Granted,No
+Copiah County,Black,25,Female,Some College,Unemployed,"$20,000 - $50,000",1,2,Granted,No
+Copiah County,White,31,Female,Some College,Unemployed,"$20,000 - $50,000",3,5,Granted,No
+Copiah County,Black,58,Male,High School,Unemployed,"< $20,000",1,7,Denied,Yes
+Copiah County,Black,39,Male,Less than High School,Unemployed,"$50,000 - $100,000",2,4,Granted,No
+Copiah County,Black,70,Female,Less than High School,Unemployed,"< $20,000",1,6,Denied,Yes
+Copiah County,Black,70,Male,Some College,Employed,"$20,000 - $50,000",1,5,Denied,No
+Copiah County,White,65,Male,Less than High School,Unemployed,"$20,000 - $50,000",1,7,Denied,No
+Copiah County,Black,60,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",3,8,Denied,No
+Copiah County,Black,35,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",2,5,Denied,No
+Copiah County,White,64,Female,High School,Employed,"$20,000 - $50,000",1,4,Granted,No
+Copiah County,White,48,Male,Some College,Employed,"< $20,000",2,3,Granted,Yes
+Copiah County,Black,55,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",4,8,Denied,Yes
+Copiah County,Black,48,Male,Some College,Unemployed,"< $20,000",6,7,Denied,No
+Copiah County,Black,52,Male,Some College,Employed,"$20,000 - $50,000",0,3,Granted,No
+Copiah County,White,19,Male,Master's Degree,Employed,"$50,000 - $100,000",1,1,Granted,No
+Copiah County,Black,27,Female,Bachelor's Degree,Employed,"> $100,000",3,5,Denied,No
+Copiah County,Black,20,Male,Less than High School,Employed,"< $20,000",1,10,Denied,Yes
+Copiah County,Black,63,Female,High School,Unemployed,"$20,000 - $50,000",2,6,Denied,No
+Copiah County,White,60,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",2,7,Denied,No
+Copiah County,White,63,Male,Some College,Unemployed,"< $20,000",0,8,Denied,Yes
+Copiah County,White,53,Female,Master's Degree,Employed,"> $100,000",2,5,Granted,No
+Copiah County,Black,36,Female,High School,Employed,"$20,000 - $50,000",2,1,Granted,No
+Copiah County,White,39,Female,Less than High School,Employed,"> $100,000",6,5,Granted,Yes
+Copiah County,Black,19,Female,Some College,Unemployed,"$20,000 - $50,000",1,8,Denied,Yes
+Copiah County,White,21,Female,High School,Employed,"$50,000 - $100,000",0,4,Granted,No
+Copiah County,White,35,Male,High School,Employed,"< $20,000",5,8,Denied,Yes
+Copiah County,White,44,Female,Less than High School,Unemployed,"$20,000 - $50,000",3,5,Granted,No
+Copiah County,White,33,Male,Some College,Unemployed,"$20,000 - $50,000",3,6,Granted,No
+Copiah County,White,33,Male,High School,Employed,"$20,000 - $50,000",0,2,Granted,No
+Copiah County,White,61,Female,Less than High School,Employed,"< $20,000",2,6,Granted,No
+Copiah County,Black,61,Male,Less than High School,Employed,"< $20,000",2,4,Granted,Yes
+Copiah County,Black,33,Female,Some College,Unemployed,"$50,000 - $100,000",0,6,Denied,No
+Copiah County,Black,35,Male,Some College,Employed,"< $20,000",1,6,Denied,Yes
+Copiah County,White,41,Male,Some College,Unemployed,"$20,000 - $50,000",1,8,Denied,Yes
+Copiah County,White,34,Male,Some College,Employed,"$20,000 - $50,000",3,4,Granted,No
+Copiah County,White,53,Female,Less than High School,Employed,"< $20,000",2,8,Denied,Yes
+Copiah County,White,58,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",3,1,Granted,No
+Copiah County,White,60,Female,High School,Unemployed,"< $20,000",2,6,Granted,No
+Copiah County,Black,50,Male,High School,Employed,"< $20,000",4,9,Denied,Yes
+Copiah County,White,52,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",2,5,Granted,No
+Copiah County,Black,19,Male,Some College,Employed,"$20,000 - $50,000",1,5,Denied,No
+Copiah County,Black,38,Female,High School,Unemployed,"$20,000 - $50,000",3,5,Denied,No
+Copiah County,Black,36,Male,High School,Unemployed,"< $20,000",2,5,Denied,Yes
+Copiah County,White,42,Female,Some College,Unemployed,"< $20,000",3,6,Granted,No
+Copiah County,White,62,Female,Master's Degree,Employed,"> $100,000",1,6,Granted,No
+Copiah County,White,54,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",3,4,Granted,No
+Copiah County,White,42,Male,Less than High School,Employed,"$50,000 - $100,000",1,2,Granted,No
+Copiah County,White,27,Female,High School,Employed,"$50,000 - $100,000",1,5,Granted,No
+Copiah County,White,52,Female,Less than High School,Employed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,White,20,Male,High School,Employed,"$20,000 - $50,000",2,9,Denied,Yes
+Copiah County,White,62,Male,Bachelor's Degree,Employed,"> $100,000",2,6,Granted,No
+Copiah County,Black,57,Male,High School,Employed,"$50,000 - $100,000",2,5,Denied,No
+Copiah County,Black,39,Male,Master's Degree,Employed,"$50,000 - $100,000",0,10,Denied,Yes
+Copiah County,White,59,Male,High School,Employed,"$20,000 - $50,000",3,1,Granted,No
+Copiah County,Black,49,Female,Less than High School,Unemployed,"< $20,000",3,10,Denied,Yes
+Copiah County,White,49,Female,Less than High School,Employed,"< $20,000",2,4,Granted,No
+Copiah County,White,62,Female,Some College,Employed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,White,48,Female,Some College,Employed,"$20,000 - $50,000",0,5,Granted,No
+Copiah County,Black,55,Male,Less than High School,Employed,"$20,000 - $50,000",1,8,Denied,Yes
+Copiah County,Black,26,Female,Some College,Employed,"$50,000 - $100,000",3,4,Granted,No
+Copiah County,White,75,Male,High School,Employed,"$50,000 - $100,000",1,2,Granted,No
+Copiah County,White,21,Male,Some College,Employed,"< $20,000",0,4,Granted,No
+Copiah County,Black,43,Male,Master's Degree,Employed,"$50,000 - $100,000",1,2,Granted,No
+Copiah County,White,70,Male,Master's Degree,Employed,"$20,000 - $50,000",3,4,Granted,No
+Copiah County,White,35,Male,Some College,Unemployed,"< $20,000",1,6,Granted,Yes
+Copiah County,White,52,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",2,4,Granted,No
+Copiah County,White,63,Female,Some College,Employed,"$20,000 - $50,000",4,7,Denied,No
+Copiah County,White,33,Female,Less than High School,Employed,"$50,000 - $100,000",2,3,Granted,No
+Copiah County,Black,40,Male,Some College,Employed,"< $20,000",2,8,Denied,Yes
+Copiah County,Black,60,Female,Less than High School,Employed,"< $20,000",0,6,Denied,No
+Copiah County,Black,54,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",2,5,Denied,No
+Copiah County,White,34,Male,High School,Employed,"$50,000 - $100,000",0,7,Denied,No
+Copiah County,Black,54,Female,Some College,Employed,"$20,000 - $50,000",1,5,Denied,No
+Copiah County,White,51,Male,High School,Employed,"$20,000 - $50,000",0,7,Denied,No
+Copiah County,Black,30,Female,Some College,Employed,"$20,000 - $50,000",0,3,Granted,No
+Copiah County,Black,53,Female,Master's Degree,Employed,"$50,000 - $100,000",2,5,Denied,No
+Copiah County,White,74,Male,Some College,Unemployed,"$20,000 - $50,000",3,4,Granted,No
+Copiah County,White,21,Male,High School,Unemployed,"< $20,000",0,2,Granted,No
+Copiah County,Black,33,Male,High School,Employed,"> $100,000",0,7,Denied,No
+Copiah County,White,55,Female,Some College,Employed,"$20,000 - $50,000",2,2,Granted,No
+Copiah County,White,28,Female,High School,Employed,"$20,000 - $50,000",0,3,Granted,No
+Copiah County,White,48,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",2,5,Granted,No
+Copiah County,White,29,Male,High School,Employed,"$20,000 - $50,000",1,7,Denied,No
+Copiah County,White,55,Male,Some College,Unemployed,"< $20,000",2,4,Granted,Yes
+Copiah County,Black,38,Male,Master's Degree,Employed,"$20,000 - $50,000",1,3,Granted,No
+Copiah County,White,30,Female,Less than High School,Employed,"$20,000 - $50,000",0,1,Granted,No
+Copiah County,Black,20,Female,High School,Employed,"$20,000 - $50,000",4,6,Denied,Yes
+Copiah County,Black,48,Male,High School,Employed,"< $20,000",3,6,Denied,Yes
+Copiah County,Black,72,Male,Some College,Employed,"$20,000 - $50,000",0,3,Granted,No
+Copiah County,Black,30,Female,Bachelor's Degree,Employed,"< $20,000",1,5,Denied,No
+Copiah County,White,21,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",3,5,Granted,No
+Copiah County,Black,65,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",4,6,Denied,Yes
+Copiah County,White,40,Female,Some College,Employed,"< $20,000",1,8,Denied,No
+Copiah County,White,65,Female,Some College,Unemployed,"$20,000 - $50,000",2,2,Granted,No
+Copiah County,White,34,Female,Some College,Employed,"$20,000 - $50,000",0,4,Granted,No
+Copiah County,White,67,Female,High School,Unemployed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,White,65,Female,High School,Employed,"< $20,000",2,4,Granted,Yes
+Copiah County,White,40,Male,Some College,Employed,"$20,000 - $50,000",7,6,Granted,Yes
+Copiah County,White,44,Male,Less than High School,Employed,"> $100,000",1,9,Denied,No
+Copiah County,Black,29,Female,High School,Employed,"< $20,000",0,4,Granted,Yes
+Copiah County,Black,39,Female,Master's Degree,Employed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,White,47,Female,Master's Degree,Employed,"$20,000 - $50,000",0,2,Granted,No
+Copiah County,White,70,Male,Less than High School,Employed,"$20,000 - $50,000",0,6,Granted,No
+Copiah County,White,40,Male,Less than High School,Employed,"< $20,000",1,9,Denied,Yes
+Copiah County,White,54,Female,Bachelor's Degree,Employed,"> $100,000",4,6,Granted,No
+Copiah County,White,43,Female,Less than High School,Employed,"$50,000 - $100,000",2,8,Denied,Yes
+Copiah County,White,65,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",1,3,Granted,No
+Copiah County,White,28,Female,High School,Employed,"$20,000 - $50,000",0,4,Granted,No
+Copiah County,Black,23,Female,High School,Employed,"$20,000 - $50,000",0,5,Denied,No
+Copiah County,Black,65,Male,High School,Employed,"< $20,000",2,9,Denied,Yes
+Copiah County,White,61,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",2,1,Granted,No
+Copiah County,White,27,Male,Less than High School,Employed,"$50,000 - $100,000",2,7,Denied,No
+Copiah County,Black,39,Male,Some College,Unemployed,"$20,000 - $50,000",4,7,Denied,Yes
+Copiah County,White,52,Male,Master's Degree,Employed,"$20,000 - $50,000",2,3,Granted,No
+Copiah County,Black,64,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",0,4,Granted,No
+Copiah County,White,71,Female,Some College,Employed,"< $20,000",3,5,Granted,Yes
+Copiah County,White,22,Male,Some College,Employed,"$20,000 - $50,000",1,4,Granted,No
+Copiah County,Black,48,Female,Some College,Employed,"$50,000 - $100,000",1,6,Denied,No
+Copiah County,White,36,Female,Bachelor's Degree,Employed,"> $100,000",4,3,Granted,Yes
+Copiah County,White,62,Male,High School,Employed,"$20,000 - $50,000",0,7,Denied,No
+Copiah County,Black,18,Female,Less than High School,Unemployed,"$20,000 - $50,000",0,5,Denied,No
+Copiah County,White,70,Male,High School,Employed,"> $100,000",2,6,Granted,No
+Copiah County,White,71,Male,Master's Degree,Employed,"> $100,000",2,1,Granted,No
+Copiah County,White,21,Female,Some College,Unemployed,"< $20,000",2,9,Denied,Yes
+Copiah County,White,40,Male,Some College,Employed,"$20,000 - $50,000",2,3,Granted,No
+Copiah County,White,49,Male,Less than High School,Unemployed,"$20,000 - $50,000",3,2,Granted,No
+Copiah County,White,72,Female,High School,Employed,"$20,000 - $50,000",1,6,Granted,No
+Copiah County,White,47,Male,Less than High School,Employed,"< $20,000",2,5,Granted,Yes
+Copiah County,White,44,Male,High School,Unemployed,"< $20,000",1,6,Granted,No
+Copiah County,White,27,Female,Less than High School,Unemployed,"< $20,000",1,5,Granted,No
+Copiah County,White,54,Female,Less than High School,Unemployed,"$20,000 - $50,000",9,6,Granted,No
+Copiah County,White,65,Male,High School,Employed,"< $20,000",1,5,Granted,No
+Copiah County,Black,46,Female,Less than High School,Unemployed,"< $20,000",2,7,Denied,No
+Copiah County,White,60,Male,High School,Unemployed,"< $20,000",1,6,Granted,No
+Copiah County,White,25,Male,High School,Unemployed,"< $20,000",1,6,Granted,Yes
+Copiah County,Black,44,Male,Some College,Employed,"$20,000 - $50,000",3,5,Denied,No
+Copiah County,White,38,Male,Some College,Employed,"$20,000 - $50,000",2,5,Granted,No
+Copiah County,Black,64,Male,High School,Unemployed,"$20,000 - $50,000",1,5,Denied,No
+Copiah County,White,25,Female,Less than High School,Employed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,White,35,Male,Some College,Employed,"< $20,000",2,5,Granted,Yes
+Copiah County,White,37,Female,Some College,Unemployed,"$20,000 - $50,000",2,3,Granted,No
+Copiah County,White,30,Female,High School,Employed,"$50,000 - $100,000",0,5,Granted,No
+Copiah County,White,67,Male,High School,Employed,"< $20,000",3,5,Granted,Yes
+Copiah County,White,71,Female,High School,Employed,"$20,000 - $50,000",1,6,Granted,No
+Copiah County,White,54,Male,High School,Employed,"$50,000 - $100,000",1,1,Granted,No
+Copiah County,White,22,Male,High School,Employed,"$50,000 - $100,000",3,3,Granted,No
+Copiah County,Black,75,Male,High School,Unemployed,"$20,000 - $50,000",4,7,Denied,Yes
+Copiah County,White,49,Female,High School,Unemployed,"< $20,000",4,3,Granted,No
+Copiah County,White,50,Female,Some College,Unemployed,"$20,000 - $50,000",3,4,Granted,No
+Copiah County,Black,40,Female,Master's Degree,Employed,"$50,000 - $100,000",3,7,Denied,No
+Copiah County,Black,41,Male,Less than High School,Employed,"$50,000 - $100,000",0,6,Denied,No
+Copiah County,White,42,Male,Less than High School,Unemployed,"$20,000 - $50,000",2,3,Granted,No
+Copiah County,Other,52,Female,Some College,Employed,"< $20,000",1,2,Granted,Yes
+Copiah County,White,31,Female,High School,Unemployed,"< $20,000",3,8,Denied,Yes
+Copiah County,White,58,Male,High School,Unemployed,"< $20,000",1,6,Granted,Yes
+Copiah County,White,34,Female,Some College,Employed,"> $100,000",1,5,Granted,No
+Copiah County,Black,47,Male,High School,Employed,"< $20,000",2,7,Denied,Yes
+Copiah County,Black,28,Female,Less than High School,Employed,"$20,000 - $50,000",4,4,Granted,No
+Copiah County,Black,70,Male,High School,Employed,"$20,000 - $50,000",3,10,Denied,Yes
+Copiah County,White,75,Male,Some College,Unemployed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,Black,50,Female,Less than High School,Unemployed,"$20,000 - $50,000",2,7,Denied,No
+Copiah County,Black,72,Female,High School,Unemployed,"$20,000 - $50,000",5,3,Granted,Yes
+Copiah County,White,30,Male,High School,Unemployed,"< $20,000",0,4,Granted,Yes
+Copiah County,White,59,Male,High School,Employed,"< $20,000",6,8,Denied,Yes
+Copiah County,White,75,Male,High School,Employed,"$20,000 - $50,000",0,6,Granted,No
+Copiah County,Black,26,Female,Less than High School,Unemployed,"$50,000 - $100,000",2,6,Denied,No
+Copiah County,Black,70,Female,Master's Degree,Employed,"$50,000 - $100,000",2,4,Granted,No
+Copiah County,White,63,Male,High School,Unemployed,"$20,000 - $50,000",1,3,Granted,No
+Copiah County,Black,55,Female,Bachelor's Degree,Employed,"> $100,000",0,6,Denied,No
+Copiah County,White,40,Female,High School,Unemployed,"< $20,000",2,3,Granted,No
+Copiah County,Black,45,Female,Some College,Employed,"$20,000 - $50,000",7,3,Granted,Yes
+Copiah County,White,21,Male,High School,Employed,"$50,000 - $100,000",0,3,Granted,No
+Copiah County,White,32,Female,High School,Employed,"$20,000 - $50,000",2,1,Granted,No
+Copiah County,Black,36,Female,Master's Degree,Employed,"> $100,000",2,5,Denied,No
+Copiah County,Black,30,Female,High School,Unemployed,"> $100,000",2,6,Denied,No
+Copiah County,Other,48,Male,Bachelor's Degree,Employed,"> $100,000",0,1,Granted,No
+Copiah County,Black,67,Male,High School,Unemployed,"< $20,000",8,5,Denied,Yes
+Copiah County,Black,41,Male,Less than High School,Employed,"< $20,000",3,5,Denied,Yes
+Copiah County,White,24,Male,Bachelor's Degree,Employed,"> $100,000",0,3,Granted,No
+Copiah County,Black,74,Female,Less than High School,Unemployed,"$50,000 - $100,000",4,4,Granted,No
+Copiah County,White,24,Female,Master's Degree,Employed,"< $20,000",1,5,Granted,No
+Copiah County,Black,22,Female,High School,Unemployed,"< $20,000",0,8,Denied,Yes
+Copiah County,White,59,Male,Some College,Employed,"$20,000 - $50,000",3,6,Granted,No
+Copiah County,Black,36,Female,High School,Unemployed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,White,24,Male,Some College,Employed,"$20,000 - $50,000",1,8,Denied,Yes
+Copiah County,White,44,Female,Some College,Unemployed,"$20,000 - $50,000",2,7,Denied,No
+Copiah County,Black,19,Female,Some College,Unemployed,"> $100,000",1,4,Granted,No
+Copiah County,White,54,Female,Less than High School,Unemployed,"< $20,000",0,6,Granted,Yes
+Copiah County,White,52,Male,Some College,Employed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,White,47,Male,High School,Unemployed,"< $20,000",1,6,Granted,Yes
+Copiah County,White,48,Male,High School,Employed,"< $20,000",0,5,Granted,Yes
+Copiah County,White,23,Male,High School,Employed,"< $20,000",0,5,Granted,Yes
+Copiah County,Black,52,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",1,7,Denied,No
+Copiah County,White,36,Female,Some College,Employed,"< $20,000",2,3,Granted,No
+Copiah County,White,69,Female,Some College,Employed,"$20,000 - $50,000",2,6,Granted,No
+Copiah County,White,39,Female,Less than High School,Unemployed,"< $20,000",3,4,Granted,No
+Copiah County,White,33,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",2,6,Granted,No
+Copiah County,White,65,Female,High School,Employed,"$20,000 - $50,000",1,2,Granted,No
+Copiah County,Other,29,Male,Less than High School,Unemployed,"$20,000 - $50,000",2,3,Granted,No
+Copiah County,White,61,Male,Less than High School,Unemployed,"$20,000 - $50,000",2,3,Granted,No
+Copiah County,Black,21,Female,Some College,Unemployed,"$20,000 - $50,000",2,5,Denied,No
+Copiah County,White,59,Female,Less than High School,Unemployed,"$20,000 - $50,000",2,3,Granted,No
+Copiah County,Black,24,Female,High School,Employed,"< $20,000",1,7,Denied,No
+Copiah County,White,60,Male,Less than High School,Employed,"$20,000 - $50,000",2,2,Granted,No
+Copiah County,Other,36,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",0,7,Denied,No
+Copiah County,Black,44,Female,Master's Degree,Employed,"$50,000 - $100,000",2,9,Denied,Yes
+Copiah County,White,62,Male,Less than High School,Unemployed,"$20,000 - $50,000",2,7,Denied,No
+Copiah County,Black,32,Female,Some College,Unemployed,"$20,000 - $50,000",4,3,Granted,Yes
+Copiah County,Black,21,Male,Less than High School,Unemployed,"< $20,000",2,5,Denied,Yes
+Copiah County,Black,34,Male,Less than High School,Unemployed,"< $20,000",1,7,Denied,Yes
+Copiah County,White,41,Male,Bachelor's Degree,Employed,"> $100,000",1,3,Granted,No
+Copiah County,White,34,Female,High School,Unemployed,"$20,000 - $50,000",2,3,Granted,No
+Copiah County,Black,19,Male,High School,Unemployed,"< $20,000",1,6,Denied,Yes
+Copiah County,Black,45,Female,High School,Unemployed,"$20,000 - $50,000",2,1,Granted,No
+Copiah County,White,67,Female,Some College,Employed,"$20,000 - $50,000",2,7,Denied,No
+Copiah County,White,65,Female,Some College,Employed,"$50,000 - $100,000",1,1,Granted,No
+Copiah County,White,52,Female,Some College,Unemployed,"$20,000 - $50,000",4,7,Denied,No
+Copiah County,Black,20,Male,Bachelor's Degree,Employed,"> $100,000",1,10,Denied,No
+Copiah County,White,72,Female,High School,Unemployed,"< $20,000",2,3,Granted,Yes
+Copiah County,White,56,Female,High School,Unemployed,"$20,000 - $50,000",1,7,Denied,No
+Copiah County,White,32,Female,High School,Unemployed,"< $20,000",2,3,Granted,Yes
+Copiah County,White,33,Male,Less than High School,Unemployed,"< $20,000",2,5,Granted,Yes
+Copiah County,Black,74,Female,High School,Employed,"$20,000 - $50,000",6,7,Denied,Yes
+Copiah County,Black,21,Male,Some College,Employed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,Black,24,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",0,4,Granted,No
+Copiah County,White,62,Male,PhD,Employed,"> $100,000",2,1,Granted,No
+Copiah County,Black,20,Female,High School,Employed,"< $20,000",1,5,Denied,Yes
+Copiah County,White,51,Male,Some College,Employed,"< $20,000",1,5,Granted,Yes
+Copiah County,Black,43,Male,Master's Degree,Employed,"$50,000 - $100,000",3,8,Denied,Yes
+Copiah County,White,55,Female,High School,Employed,"< $20,000",1,6,Granted,Yes
+Copiah County,Black,52,Male,Some College,Employed,"$20,000 - $50,000",2,5,Denied,No
+Copiah County,White,64,Male,Some College,Employed,"< $20,000",1,6,Granted,Yes
+Copiah County,Black,30,Male,Some College,Employed,"< $20,000",2,7,Denied,Yes
+Copiah County,White,32,Male,High School,Employed,"< $20,000",5,7,Denied,Yes
+Copiah County,Black,64,Male,High School,Employed,"$50,000 - $100,000",1,5,Denied,No
+Copiah County,Black,55,Male,Less than High School,Unemployed,"< $20,000",1,6,Denied,Yes
+Copiah County,Black,41,Female,High School,Unemployed,"< $20,000",3,5,Denied,No
+Copiah County,White,38,Male,Master's Degree,Employed,"$20,000 - $50,000",2,3,Granted,No
+Copiah County,White,18,Male,Some College,Employed,"< $20,000",0,7,Denied,Yes
+Copiah County,White,58,Female,Some College,Employed,"< $20,000",3,3,Granted,No
+Copiah County,Black,52,Female,High School,Employed,"$50,000 - $100,000",2,5,Denied,No
+Copiah County,Black,59,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",2,7,Denied,No
+Copiah County,Other,24,Female,Less than High School,Unemployed,"< $20,000",2,8,Denied,No
+Copiah County,White,64,Male,PhD,Employed,"$20,000 - $50,000",1,4,Granted,No
+Copiah County,Black,73,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",2,8,Denied,Yes
+Copiah County,White,42,Female,Some College,Unemployed,"$20,000 - $50,000",2,1,Granted,No
+Copiah County,White,72,Male,Some College,Employed,"< $20,000",4,7,Denied,No
+Copiah County,White,74,Female,High School,Employed,"< $20,000",2,5,Granted,Yes
+Copiah County,White,53,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",5,8,Denied,Yes
+Copiah County,Black,35,Male,Master's Degree,Employed,"$20,000 - $50,000",1,4,Granted,No
+Copiah County,White,52,Female,Less than High School,Unemployed,"< $20,000",1,5,Granted,Yes
+Copiah County,White,34,Male,High School,Unemployed,"< $20,000",1,7,Denied,Yes
+Copiah County,White,58,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",1,3,Granted,No
+Copiah County,White,32,Male,Less than High School,Unemployed,"< $20,000",2,9,Denied,Yes
+Copiah County,White,46,Male,Less than High School,Unemployed,"$20,000 - $50,000",2,6,Granted,No
+Copiah County,White,29,Female,High School,Employed,"< $20,000",2,4,Granted,Yes
+Copiah County,Black,20,Female,Master's Degree,Employed,"$20,000 - $50,000",2,8,Denied,No
+Copiah County,Black,32,Female,Some College,Unemployed,"> $100,000",1,9,Denied,Yes
+Copiah County,White,30,Female,High School,Employed,"< $20,000",1,3,Granted,Yes
+Copiah County,White,69,Female,High School,Unemployed,"$20,000 - $50,000",2,3,Granted,No
+Copiah County,Black,59,Male,Some College,Unemployed,"< $20,000",2,6,Denied,Yes
+Copiah County,Black,54,Female,High School,Employed,"< $20,000",6,9,Denied,Yes
+Copiah County,White,67,Female,High School,Employed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,Black,42,Female,High School,Employed,"< $20,000",4,9,Denied,Yes
+Copiah County,Black,74,Female,High School,Employed,"$50,000 - $100,000",3,10,Denied,No
+Copiah County,Black,30,Female,Some College,Employed,"$20,000 - $50,000",1,3,Granted,No
+Copiah County,Black,67,Female,High School,Unemployed,"$20,000 - $50,000",4,6,Denied,No
+Copiah County,White,25,Male,High School,Employed,"$20,000 - $50,000",1,10,Denied,Yes
+Copiah County,White,31,Male,Less than High School,Unemployed,"$50,000 - $100,000",3,2,Granted,No
+Copiah County,Black,71,Female,Some College,Employed,"$50,000 - $100,000",0,7,Denied,No
+Copiah County,White,60,Female,Some College,Employed,"$50,000 - $100,000",5,3,Granted,No
+Copiah County,Black,64,Male,Some College,Unemployed,"$50,000 - $100,000",0,7,Denied,No
+Copiah County,White,53,Male,Master's Degree,Employed,"$20,000 - $50,000",0,4,Granted,No
+Copiah County,Black,47,Male,Less than High School,Employed,"< $20,000",5,6,Denied,No
+Copiah County,White,27,Female,Less than High School,Employed,"$20,000 - $50,000",1,6,Granted,No
+Copiah County,White,22,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",0,5,Granted,No
+Copiah County,White,50,Male,Some College,Unemployed,"$20,000 - $50,000",9,8,Denied,Yes
+Copiah County,White,47,Female,Some College,Employed,"< $20,000",2,6,Granted,Yes
+Copiah County,White,67,Female,Some College,Employed,"< $20,000",2,2,Granted,Yes
+Copiah County,Black,26,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",1,3,Granted,No
+Copiah County,Other,27,Male,Master's Degree,Employed,"$20,000 - $50,000",1,4,Granted,No
+Copiah County,White,44,Female,Some College,Employed,"$20,000 - $50,000",0,6,Granted,No
+Copiah County,White,67,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",2,6,Granted,No
+Copiah County,White,42,Male,Some College,Unemployed,"< $20,000",0,3,Granted,Yes
+Copiah County,Black,55,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",2,4,Granted,No
+Copiah County,White,33,Male,High School,Unemployed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,White,38,Female,Some College,Unemployed,"< $20,000",3,6,Granted,Yes
+Copiah County,White,34,Male,Some College,Unemployed,"> $100,000",2,4,Granted,No
+Copiah County,Black,49,Male,Some College,Unemployed,"< $20,000",3,6,Denied,Yes
+Copiah County,White,45,Female,Some College,Employed,"$50,000 - $100,000",0,5,Granted,No
+Copiah County,White,36,Male,High School,Unemployed,"< $20,000",3,3,Granted,Yes
+Copiah County,White,24,Female,Some College,Unemployed,"< $20,000",1,2,Granted,Yes
+Copiah County,White,29,Female,High School,Employed,"< $20,000",0,4,Granted,Yes
+Copiah County,White,21,Female,Some College,Unemployed,"< $20,000",1,7,Denied,Yes
+Copiah County,Black,64,Male,High School,Unemployed,"< $20,000",4,4,Granted,No
+Copiah County,Black,67,Female,Some College,Employed,"< $20,000",1,7,Denied,Yes
+Copiah County,White,75,Male,Some College,Employed,"< $20,000",3,6,Granted,Yes
+Copiah County,White,50,Female,High School,Unemployed,"> $100,000",1,4,Granted,No
+Copiah County,Other,32,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",0,3,Granted,No
+Copiah County,Black,62,Male,High School,Employed,"$50,000 - $100,000",3,4,Granted,No
+Copiah County,Black,52,Female,Master's Degree,Employed,"< $20,000",3,5,Denied,No
+Copiah County,White,69,Female,High School,Employed,"$20,000 - $50,000",1,3,Granted,No
+Copiah County,Other,64,Female,Some College,Unemployed,"< $20,000",2,6,Granted,Yes
+Copiah County,Black,26,Male,Master's Degree,Employed,"$50,000 - $100,000",2,9,Denied,Yes
+Copiah County,White,54,Female,Less than High School,Employed,"< $20,000",2,5,Granted,No
+Copiah County,Black,34,Female,Master's Degree,Employed,"> $100,000",0,5,Denied,No
+Copiah County,Black,27,Female,Some College,Employed,"< $20,000",1,5,Denied,No
+Copiah County,Other,63,Male,PhD,Employed,"$50,000 - $100,000",0,7,Denied,No
+Copiah County,Black,35,Female,Master's Degree,Employed,"$20,000 - $50,000",2,6,Denied,No
+Copiah County,Black,54,Female,Bachelor's Degree,Employed,"> $100,000",2,6,Denied,No
+Copiah County,Black,45,Female,High School,Employed,"< $20,000",5,10,Denied,No
+Copiah County,White,42,Male,Less than High School,Unemployed,"< $20,000",1,3,Granted,Yes
+Copiah County,White,42,Female,Some College,Unemployed,"$20,000 - $50,000",2,10,Denied,No
+Copiah County,Other,72,Male,Some College,Unemployed,"$50,000 - $100,000",3,3,Granted,No
+Copiah County,Black,53,Female,High School,Employed,"< $20,000",0,9,Denied,Yes
+Copiah County,White,66,Female,High School,Unemployed,"$20,000 - $50,000",1,3,Granted,No
+Copiah County,Black,32,Female,Some College,Unemployed,"$20,000 - $50,000",3,4,Granted,No
+Copiah County,Black,23,Male,High School,Unemployed,"$20,000 - $50,000",0,8,Denied,No
+Copiah County,Black,34,Male,Some College,Employed,"< $20,000",3,9,Denied,No
+Copiah County,Black,37,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",5,6,Denied,No
+Copiah County,Black,44,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",2,4,Granted,No
+Copiah County,Black,49,Male,High School,Employed,"< $20,000",1,9,Denied,No
+Copiah County,Black,43,Female,Less than High School,Unemployed,"< $20,000",0,6,Denied,Yes
+Copiah County,Black,74,Female,Bachelor's Degree,Employed,"> $100,000",3,3,Granted,No
+Copiah County,White,26,Female,Master's Degree,Employed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,White,65,Female,Some College,Employed,"< $20,000",3,6,Granted,Yes
+Copiah County,White,18,Male,Master's Degree,Employed,"$20,000 - $50,000",0,7,Denied,No
+Copiah County,White,62,Female,High School,Employed,"< $20,000",2,7,Denied,No
+Copiah County,White,46,Male,Some College,Employed,"< $20,000",1,5,Granted,Yes
+Copiah County,White,18,Female,High School,Unemployed,"< $20,000",0,6,Granted,Yes
+Copiah County,White,31,Male,Some College,Employed,"< $20,000",4,5,Granted,Yes
+Copiah County,White,63,Male,Less than High School,Unemployed,"$50,000 - $100,000",1,3,Granted,No
+Copiah County,Black,74,Male,High School,Employed,"$20,000 - $50,000",2,7,Denied,No
+Copiah County,White,45,Male,High School,Employed,"< $20,000",1,3,Granted,Yes
+Copiah County,White,61,Male,Some College,Employed,"$20,000 - $50,000",0,5,Granted,No
+Copiah County,Black,45,Male,High School,Unemployed,"$20,000 - $50,000",4,5,Denied,Yes
+Copiah County,White,18,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",2,8,Denied,Yes
+Copiah County,White,68,Male,Bachelor's Degree,Employed,"> $100,000",2,6,Granted,No
+Copiah County,White,60,Male,Some College,Unemployed,"> $100,000",1,4,Granted,No
+Copiah County,White,54,Male,Less than High School,Unemployed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,Black,70,Male,High School,Employed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,White,37,Male,Master's Degree,Employed,"> $100,000",1,2,Granted,No
+Copiah County,White,29,Male,High School,Unemployed,"< $20,000",0,4,Granted,No
+Copiah County,Black,23,Female,High School,Employed,"< $20,000",1,5,Denied,Yes
+Copiah County,Black,49,Female,Less than High School,Unemployed,"$50,000 - $100,000",3,2,Granted,No
+Copiah County,Other,18,Female,Some College,Unemployed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,White,20,Male,High School,Unemployed,"$20,000 - $50,000",0,6,Granted,No
+Copiah County,White,21,Male,Bachelor's Degree,Employed,"> $100,000",2,5,Granted,No
+Copiah County,White,43,Female,Less than High School,Unemployed,"> $100,000",6,5,Granted,Yes
+Copiah County,White,55,Female,PhD,Employed,"$50,000 - $100,000",2,4,Granted,No
+Copiah County,Black,61,Male,Some College,Unemployed,"< $20,000",2,7,Denied,Yes
+Copiah County,Black,67,Male,Some College,Unemployed,"$20,000 - $50,000",1,5,Denied,No
+Copiah County,Black,61,Male,High School,Employed,"$20,000 - $50,000",2,5,Denied,No
+Copiah County,White,20,Female,Less than High School,Employed,"$20,000 - $50,000",3,5,Granted,No
+Copiah County,Black,39,Male,Master's Degree,Employed,"$20,000 - $50,000",0,5,Denied,No
+Copiah County,White,19,Male,High School,Employed,"< $20,000",0,8,Denied,No
+Copiah County,Black,56,Male,Some College,Unemployed,"< $20,000",2,8,Denied,Yes
+Copiah County,Black,47,Female,High School,Employed,"$50,000 - $100,000",1,5,Denied,No
+Copiah County,Black,60,Female,Master's Degree,Employed,"$50,000 - $100,000",2,8,Denied,No
+Copiah County,White,70,Male,Some College,Unemployed,"$50,000 - $100,000",4,5,Granted,Yes
+Copiah County,White,57,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",0,4,Granted,No
+Copiah County,Black,62,Female,Less than High School,Employed,"< $20,000",5,10,Denied,No
+Copiah County,White,54,Male,Master's Degree,Employed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,White,31,Female,Some College,Employed,"$50,000 - $100,000",2,6,Granted,No
+Copiah County,White,69,Female,High School,Employed,"$50,000 - $100,000",4,1,Granted,No
+Copiah County,Black,69,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",2,10,Denied,No
+Copiah County,White,37,Male,Some College,Unemployed,"$20,000 - $50,000",3,4,Granted,No
+Copiah County,White,23,Female,High School,Unemployed,"$20,000 - $50,000",0,5,Granted,No
+Copiah County,Black,65,Male,High School,Employed,"< $20,000",0,4,Granted,Yes
+Copiah County,White,73,Female,Master's Degree,Employed,"$20,000 - $50,000",2,6,Granted,No
+Copiah County,White,30,Female,High School,Unemployed,"$20,000 - $50,000",1,4,Granted,No
+Copiah County,White,30,Female,Less than High School,Employed,"$50,000 - $100,000",0,3,Granted,No
+Copiah County,Black,25,Female,Some College,Employed,"$20,000 - $50,000",1,5,Denied,No
+Copiah County,Other,65,Male,Some College,Employed,"> $100,000",1,2,Granted,No
+Copiah County,White,29,Female,Some College,Unemployed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,White,47,Female,High School,Employed,"< $20,000",2,10,Denied,No
+Copiah County,Black,72,Male,High School,Employed,"$20,000 - $50,000",1,8,Denied,No
+Copiah County,Black,59,Female,Some College,Employed,"$50,000 - $100,000",1,7,Denied,No
+Copiah County,White,30,Female,High School,Employed,"$20,000 - $50,000",1,2,Granted,No
+Copiah County,Black,19,Male,High School,Employed,"$20,000 - $50,000",1,10,Denied,Yes
+Copiah County,Black,61,Male,Less than High School,Employed,"$20,000 - $50,000",1,4,Granted,No
+Copiah County,White,72,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",1,6,Granted,No
+Copiah County,White,35,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",0,6,Granted,No
+Copiah County,White,49,Male,Less than High School,Unemployed,"$50,000 - $100,000",6,3,Granted,Yes
+Copiah County,White,74,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,White,67,Female,Less than High School,Unemployed,"> $100,000",2,6,Granted,No
+Copiah County,Black,23,Male,High School,Employed,"< $20,000",0,5,Denied,Yes
+Copiah County,White,35,Female,High School,Employed,"< $20,000",0,4,Granted,Yes
+Copiah County,Black,47,Female,High School,Unemployed,"< $20,000",2,4,Granted,Yes
+Copiah County,Black,72,Male,Some College,Employed,"< $20,000",2,4,Granted,Yes
+Copiah County,Black,48,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",0,5,Denied,No
+Copiah County,White,27,Female,Some College,Unemployed,"< $20,000",1,9,Denied,Yes
+Copiah County,Black,74,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",2,4,Granted,No
+Copiah County,White,68,Male,Some College,Employed,"< $20,000",4,5,Granted,No
+Copiah County,Black,29,Female,Bachelor's Degree,Employed,"< $20,000",1,5,Denied,Yes
+Copiah County,White,56,Female,Less than High School,Employed,"$20,000 - $50,000",4,2,Granted,Yes
+Copiah County,White,36,Female,High School,Employed,"< $20,000",1,5,Granted,Yes
+Copiah County,Black,47,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",2,4,Granted,No
+Copiah County,White,58,Male,Less than High School,Unemployed,"$20,000 - $50,000",0,5,Granted,No
+Copiah County,Black,44,Male,Some College,Unemployed,"$20,000 - $50,000",2,3,Granted,No
+Copiah County,White,49,Female,Less than High School,Unemployed,"$20,000 - $50,000",2,5,Granted,No
+Copiah County,Black,28,Male,High School,Employed,"< $20,000",4,9,Denied,No
+Copiah County,White,56,Female,Less than High School,Unemployed,"< $20,000",1,8,Denied,No
+Copiah County,Black,22,Male,Less than High School,Unemployed,"$50,000 - $100,000",2,6,Denied,No
+Copiah County,White,20,Female,High School,Unemployed,"$50,000 - $100,000",2,5,Granted,No
+Copiah County,White,46,Female,Some College,Employed,"< $20,000",0,8,Denied,Yes
+Copiah County,White,52,Male,PhD,Employed,"$50,000 - $100,000",3,3,Granted,No
+Copiah County,White,23,Male,Some College,Employed,"< $20,000",0,5,Granted,Yes
+Copiah County,Black,50,Female,High School,Employed,"$20,000 - $50,000",2,3,Granted,No
+Copiah County,Black,21,Male,Some College,Employed,"< $20,000",2,7,Denied,Yes
+Copiah County,Black,59,Male,Master's Degree,Employed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,Black,68,Male,High School,Unemployed,"< $20,000",0,8,Denied,No
+Copiah County,White,36,Male,Master's Degree,Employed,"> $100,000",3,3,Granted,No
+Copiah County,White,47,Male,Some College,Employed,"$50,000 - $100,000",0,7,Denied,No
+Copiah County,White,20,Male,High School,Employed,"< $20,000",1,7,Denied,No
+Copiah County,Black,66,Female,High School,Unemployed,"< $20,000",2,7,Denied,Yes
+Copiah County,Black,54,Male,High School,Unemployed,"$50,000 - $100,000",2,5,Denied,No
+Copiah County,Black,62,Female,Some College,Employed,"$20,000 - $50,000",0,5,Denied,No
+Copiah County,Black,40,Female,Bachelor's Degree,Employed,"$50,000 - $100,000",3,9,Denied,Yes
+Copiah County,Black,54,Female,High School,Unemployed,"> $100,000",1,5,Denied,No
+Copiah County,White,49,Male,Less than High School,Unemployed,"< $20,000",4,6,Granted,No
+Copiah County,Black,24,Female,Some College,Employed,"$20,000 - $50,000",1,8,Denied,Yes
+Copiah County,Black,18,Male,Some College,Unemployed,"$20,000 - $50,000",1,4,Granted,No
+Copiah County,Other,54,Male,Some College,Unemployed,"$20,000 - $50,000",1,3,Granted,No
+Copiah County,Black,33,Female,High School,Employed,"< $20,000",2,3,Granted,Yes
+Copiah County,White,60,Male,High School,Employed,"< $20,000",2,7,Denied,Yes
+Copiah County,White,63,Male,High School,Employed,"$50,000 - $100,000",4,3,Granted,Yes
+Copiah County,Black,46,Female,Less than High School,Employed,"$20,000 - $50,000",0,8,Denied,No
+Copiah County,White,68,Female,Some College,Employed,"< $20,000",2,1,Granted,Yes
+Copiah County,Black,31,Male,Less than High School,Employed,"$50,000 - $100,000",2,5,Denied,No
+Copiah County,White,60,Male,Bachelor's Degree,Employed,"> $100,000",1,5,Granted,No
+Copiah County,Black,27,Female,Master's Degree,Employed,"$50,000 - $100,000",1,2,Granted,No
+Copiah County,Black,70,Female,Some College,Employed,"$20,000 - $50,000",1,4,Granted,No
+Copiah County,White,35,Female,High School,Unemployed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,White,62,Female,Less than High School,Employed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,White,41,Female,Some College,Unemployed,"< $20,000",0,6,Granted,No
+Copiah County,White,29,Female,High School,Employed,"$20,000 - $50,000",0,1,Granted,No
+Copiah County,Black,53,Male,PhD,Employed,"$50,000 - $100,000",0,7,Denied,No
+Copiah County,Black,25,Female,Master's Degree,Employed,"$20,000 - $50,000",0,7,Denied,No
+Copiah County,Black,43,Female,Less than High School,Employed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,White,62,Female,High School,Unemployed,"< $20,000",1,8,Denied,Yes
+Copiah County,White,21,Female,Less than High School,Unemployed,"< $20,000",1,5,Granted,Yes
+Copiah County,White,48,Male,Less than High School,Employed,"< $20,000",1,7,Denied,No
+Copiah County,Black,74,Male,High School,Unemployed,"< $20,000",3,6,Denied,No
+Copiah County,Black,19,Male,High School,Unemployed,"$20,000 - $50,000",0,6,Denied,No
+Copiah County,White,40,Female,Less than High School,Employed,"$50,000 - $100,000",0,5,Granted,No
+Copiah County,Black,33,Female,Some College,Employed,"$50,000 - $100,000",1,7,Denied,No
+Copiah County,Black,19,Male,High School,Employed,"< $20,000",0,6,Denied,Yes
+Copiah County,White,37,Male,High School,Employed,"< $20,000",3,6,Granted,Yes
+Copiah County,White,26,Male,Less than High School,Employed,"$20,000 - $50,000",0,6,Granted,No
+Copiah County,White,29,Female,High School,Unemployed,"> $100,000",3,7,Denied,No
+Copiah County,White,33,Female,Master's Degree,Employed,"$20,000 - $50,000",3,7,Denied,No
+Copiah County,White,51,Female,High School,Employed,"< $20,000",1,6,Granted,Yes
+Copiah County,Black,31,Male,High School,Unemployed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,White,37,Male,Some College,Employed,"$20,000 - $50,000",0,4,Granted,No
+Copiah County,Black,46,Female,Less than High School,Employed,"> $100,000",2,8,Denied,Yes
+Copiah County,White,46,Male,High School,Employed,"< $20,000",0,6,Granted,Yes
+Copiah County,Black,54,Female,Some College,Unemployed,"$50,000 - $100,000",3,5,Denied,No
+Copiah County,White,20,Female,Less than High School,Unemployed,"$50,000 - $100,000",1,1,Granted,No
+Copiah County,White,23,Female,Some College,Employed,"< $20,000",1,8,Denied,Yes
+Copiah County,White,70,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",2,3,Granted,No
+Copiah County,White,69,Male,High School,Unemployed,"< $20,000",2,4,Granted,Yes
+Copiah County,White,55,Male,High School,Unemployed,"$20,000 - $50,000",1,8,Denied,No
+Copiah County,White,21,Female,Less than High School,Employed,"$20,000 - $50,000",2,1,Granted,No
+Copiah County,Black,23,Male,Less than High School,Unemployed,"$20,000 - $50,000",1,7,Denied,No
+Copiah County,White,51,Male,Less than High School,Unemployed,"$20,000 - $50,000",0,1,Granted,No
+Copiah County,Black,33,Male,Less than High School,Employed,"$20,000 - $50,000",1,7,Denied,No
+Copiah County,White,42,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",5,6,Granted,Yes
+Copiah County,Black,75,Male,Bachelor's Degree,Employed,"< $20,000",3,6,Denied,Yes
+Copiah County,Black,31,Female,High School,Employed,"$20,000 - $50,000",5,4,Granted,No
+Copiah County,White,53,Male,Some College,Employed,"$20,000 - $50,000",0,3,Granted,No
+Copiah County,Black,31,Male,High School,Unemployed,"$20,000 - $50,000",2,8,Denied,No
+Copiah County,Black,56,Female,Some College,Unemployed,"< $20,000",1,4,Granted,No
+Copiah County,Black,51,Male,High School,Employed,"$20,000 - $50,000",1,6,Denied,No
+Copiah County,White,48,Male,Master's Degree,Employed,"> $100,000",3,4,Granted,No
+Copiah County,Black,52,Male,Less than High School,Employed,"< $20,000",1,7,Denied,No
+Copiah County,White,75,Female,Less than High School,Employed,"< $20,000",2,6,Granted,Yes
+Copiah County,White,64,Male,High School,Unemployed,"< $20,000",2,6,Granted,No
+Copiah County,White,40,Female,Some College,Employed,"$20,000 - $50,000",1,3,Granted,No
+Copiah County,Black,34,Female,Some College,Employed,"$50,000 - $100,000",1,5,Denied,No
+Copiah County,Black,67,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",0,4,Granted,No
+Copiah County,Black,59,Female,Some College,Unemployed,"$50,000 - $100,000",1,5,Denied,No
+Copiah County,Black,23,Female,Less than High School,Employed,"< $20,000",0,5,Denied,Yes
+Copiah County,Other,44,Female,High School,Employed,"< $20,000",3,3,Granted,No
+Copiah County,White,36,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",3,6,Granted,No
+Copiah County,White,35,Male,Less than High School,Employed,"< $20,000",5,5,Granted,No
+Copiah County,Black,19,Female,High School,Employed,"$20,000 - $50,000",3,6,Denied,No
+Copiah County,Black,19,Male,Master's Degree,Employed,"$20,000 - $50,000",3,8,Denied,No
+Copiah County,White,42,Male,High School,Employed,"< $20,000",3,7,Denied,Yes
+Copiah County,Black,45,Female,High School,Employed,"$20,000 - $50,000",1,9,Denied,Yes
+Copiah County,White,33,Male,High School,Employed,"< $20,000",1,5,Granted,No
+Copiah County,Black,62,Male,High School,Employed,"< $20,000",2,4,Granted,No
+Copiah County,Black,46,Female,Master's Degree,Employed,"< $20,000",0,8,Denied,No
+Copiah County,White,52,Female,High School,Employed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,White,34,Male,High School,Unemployed,"$20,000 - $50,000",0,5,Granted,No
+Copiah County,Black,67,Female,Some College,Unemployed,"$20,000 - $50,000",3,6,Denied,No
+Copiah County,Black,27,Female,Some College,Employed,"$20,000 - $50,000",1,9,Denied,No
+Copiah County,White,67,Male,High School,Employed,"< $20,000",2,6,Granted,Yes
+Copiah County,White,21,Female,High School,Employed,"$20,000 - $50,000",0,3,Granted,No
+Copiah County,Black,53,Female,High School,Employed,"< $20,000",1,7,Denied,Yes
+Copiah County,Black,33,Male,Less than High School,Unemployed,"< $20,000",2,6,Denied,Yes
+Copiah County,White,73,Male,Some College,Employed,"$20,000 - $50,000",3,6,Granted,No
+Copiah County,White,39,Female,High School,Employed,"$20,000 - $50,000",2,1,Granted,No
+Copiah County,White,49,Male,Some College,Unemployed,"$20,000 - $50,000",1,5,Granted,No
+Copiah County,Black,40,Female,Bachelor's Degree,Employed,"> $100,000",1,6,Denied,No
+Copiah County,White,46,Female,High School,Employed,"< $20,000",2,6,Granted,No
+Copiah County,Black,22,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",1,9,Denied,Yes
+Copiah County,Black,66,Male,High School,Employed,"< $20,000",3,9,Denied,No
+Copiah County,White,44,Male,High School,Unemployed,"$20,000 - $50,000",6,6,Granted,Yes
+Copiah County,White,61,Female,Less than High School,Employed,"$50,000 - $100,000",4,6,Granted,No
+Copiah County,White,18,Male,Some College,Unemployed,"$20,000 - $50,000",0,7,Denied,No
+Copiah County,White,23,Female,Some College,Unemployed,"$20,000 - $50,000",2,5,Granted,No
+Copiah County,White,70,Male,High School,Employed,"$20,000 - $50,000",5,5,Granted,Yes
+Copiah County,White,51,Female,Bachelor's Degree,Employed,"< $20,000",4,8,Denied,Yes
+Copiah County,White,54,Male,High School,Employed,"$20,000 - $50,000",4,3,Granted,Yes
+Copiah County,Black,58,Male,Some College,Employed,"$20,000 - $50,000",2,10,Denied,No
+Copiah County,White,34,Female,Some College,Employed,"> $100,000",2,6,Granted,No
+Copiah County,White,60,Male,High School,Employed,"> $100,000",0,4,Granted,No
+Copiah County,Black,42,Female,Less than High School,Employed,"< $20,000",2,10,Denied,No
+Copiah County,Black,53,Male,Less than High School,Unemployed,"$20,000 - $50,000",0,7,Denied,No
+Copiah County,White,50,Female,Less than High School,Employed,"< $20,000",2,4,Granted,Yes
+Copiah County,Black,66,Male,Some College,Unemployed,"< $20,000",4,8,Denied,No
+Copiah County,White,37,Female,Less than High School,Employed,"< $20,000",2,6,Granted,Yes
+Copiah County,Black,54,Male,Master's Degree,Employed,"$50,000 - $100,000",1,3,Granted,No
+Copiah County,Other,24,Female,Some College,Employed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,Black,58,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",3,6,Denied,No
+Copiah County,White,71,Female,Less than High School,Unemployed,"< $20,000",4,6,Granted,No
+Copiah County,White,28,Male,Less than High School,Employed,"$20,000 - $50,000",0,4,Granted,No
+Copiah County,Black,48,Male,High School,Employed,"< $20,000",2,4,Granted,No
+Copiah County,White,73,Male,Bachelor's Degree,Employed,"< $20,000",1,7,Denied,No
+Copiah County,White,44,Female,High School,Unemployed,"$20,000 - $50,000",2,5,Granted,No
+Copiah County,White,72,Male,Less than High School,Employed,"$50,000 - $100,000",0,1,Granted,No
+Copiah County,Black,27,Female,High School,Employed,"$20,000 - $50,000",1,8,Denied,Yes
+Copiah County,Black,55,Male,Less than High School,Employed,"< $20,000",2,7,Denied,Yes
+Copiah County,White,62,Male,Bachelor's Degree,Employed,"$50,000 - $100,000",3,8,Denied,Yes
+Copiah County,White,66,Female,Some College,Employed,"> $100,000",1,7,Denied,No
+Copiah County,White,49,Female,High School,Employed,"< $20,000",1,2,Granted,Yes
+Copiah County,Black,73,Male,Some College,Employed,"$50,000 - $100,000",5,6,Denied,No
+Copiah County,White,22,Female,High School,Unemployed,"< $20,000",1,5,Granted,Yes
+Copiah County,White,21,Male,High School,Unemployed,"$20,000 - $50,000",0,7,Denied,No
+Copiah County,White,73,Female,Some College,Unemployed,"> $100,000",3,5,Granted,No
+Copiah County,White,19,Female,Bachelor's Degree,Employed,"$20,000 - $50,000",2,4,Granted,No
+Copiah County,White,31,Female,Master's Degree,Employed,"> $100,000",2,1,Granted,No
+Copiah County,White,53,Male,High School,Unemployed,"$20,000 - $50,000",1,6,Granted,No
+Copiah County,Black,65,Female,Less than High School,Unemployed,"< $20,000",1,5,Denied,No
+Copiah County,Black,61,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",4,4,Granted,No
+Copiah County,White,65,Male,Some College,Employed,"$20,000 - $50,000",3,2,Granted,No
+Copiah County,White,37,Male,Less than High School,Unemployed,"$20,000 - $50,000",0,4,Granted,No
+Copiah County,Black,33,Male,Less than High School,Employed,"$20,000 - $50,000",2,2,Granted,No
+Copiah County,White,62,Female,High School,Employed,"< $20,000",3,7,Denied,Yes
+Copiah County,White,61,Male,Bachelor's Degree,Employed,"$20,000 - $50,000",3,6,Granted,No
+Copiah County,Black,52,Male,High School,Employed,"< $20,000",3,6,Denied,Yes
+Copiah County,Black,60,Male,Less than High School,Employed,"$20,000 - $50,000",0,2,Granted,No
+Copiah County,Black,61,Female,Bachelor's Degree,Employed,"> $100,000",1,9,Denied,Yes
+Copiah County,Other,29,Female,High School,Employed,"$20,000 - $50,000",2,6,Granted,No
