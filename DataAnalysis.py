@@ -123,7 +123,7 @@ table_generate_export(topic, df_master, ['Judge Decision'], ['Race', 'Gender'], 
 #	 Deliverable: Bar charts comparing FPR and FNR across racial groups, 
 #       accompanied by an interpretation of any disparities found.
 
-topic = 'Fairness'
+topic = 'Fairness_Judge'
 print('>>> ' + topic)
 
 # Encode & Reanme: Judge Decision, Re-offense
@@ -170,8 +170,67 @@ df_fairness['FNR'] = np.where(df_fairness[pred] == pred_neg,
 excel_export(df_fairness, OUTPUT_EXCEL, topic)
 
 
-# %% Additional
-#    3alt. Risk score distribution by county, judge's decision, and race
+# %% 3alt. Risk score distribution by county, judge's decision, and race/gender
 topic = 'Bail_Risk_alt'
 table_generate_export(topic, df_master, ['County', 'Judge Decision'], ['Race', 'Gender'], ['Risk Score'], None, None)
+
+
+# %% 3alt.  Risk score distribution by re-offense and race
+topic = 'Reoffense_Risk_alt'
+table_generate_export(topic, df_master, ['Re-offense'], ['Race', 'Gender'], ['Risk Score'], None, None)
+
+
+# %% Accuracy
+topic = 'Fairness_Risk'
+print ('>>> ' + topic)
+
+# Encode & Reanme: Judge Decision, Re-offense
+df_master['Re-offense_en'] = df_master['Re-offense'].map({'Yes':1, 'No':0})
+
+
+# Metrics parameters
+group = 'Race'
+cond = 'Re-offense'     # condition: Re-offense
+pred = 'AI Decision'    # prediction: AI Decision
+cond_pos = 'Yes'        # Re-offense: Yes
+cond_neg = 'No'         # Re-offense: No
+pred_pos = 'Denied'     # Judge Decision: Denied (bail)
+pred_neg = 'Granted'    # Judge Decision: Granted (bail)
+
+df_fairness_ai = pd.DataFrame()
+
+# Loop through each Risk Score threshold
+for i in range(1, 11):
+    df = df_master[[group, cond, 'Risk Score']].copy()
+    df.loc[df['Risk Score']>= i, pred] = pred_pos
+    df.loc[df['Risk Score'] < i, pred] = pred_neg
+    
+    outcome = 'Outcome'
+    df['Outcome'] = None
+    df.loc[(df[cond]==cond_pos) & (df[pred]==pred_pos), outcome] = "TP"
+    df.loc[(df[cond]==cond_neg) & (df[pred]==pred_pos), outcome] = "FP"
+    df.loc[(df[cond]==cond_pos) & (df[pred]==pred_neg), outcome] = "FN"
+    df.loc[(df[cond]==cond_neg) & (df[pred]==pred_neg), outcome] = "TN"
+    
+    threshold = 'Risk Score Threshold'
+    df_grouped = df.groupby([group, 'Outcome']).size().reset_index(name='count')
+    df_grouped.insert(0, threshold, i)
+    df_fairness_ai = pd.concat([df_fairness_ai, df_grouped], ignore_index=True)
+    
+    # Fill in missing outcomes for each racial group & threshold
+    u_group = df_fairness_ai[group].unique()
+    u_threshold = df_fairness_ai[threshold].unique()
+    u_outcome = df_fairness_ai[outcome].unique()
+    complete_index = pd.MultiIndex.from_product([u_group, u_threshold, u_outcome], names=[group, threshold, outcome])
+    df_complete_index = pd.DataFrame(index=complete_index).reset_index()
+    df_fairness_ai = pd.merge(df_complete_index, df_fairness_ai, on=[group, threshold, outcome], how='left')
+    df_fairness_ai['count'] = df_fairness_ai['count'].fillna(0)
+    
+# Export
+sheet = topic + '_' + group
+excel_export(df_fairness_ai, OUTPUT_EXCEL, topic)
+
+
+
+
 
