@@ -1,5 +1,5 @@
 # RAI
-CMU_94885-Responsible AI_F2024  
+CMU 94885-Responsible AI, Fall 2024  
 Judgment by Algorithm: Exploring AI Fairness in Criminal Justice  
 Group: Paine’s Protectors (SF RAI - Civil Rights Groups)  
 Members: Anushka Mehta, Ben Farrah, Pablo Zavala Reina, Pallavi Rajan, Youyou Huang  
